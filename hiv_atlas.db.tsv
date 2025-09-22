@@ -67,7 +67,7 @@ OP039455.1	11676	HIV-1	0	0.7778270663956639	UNVERIFIED: HIV-1 isolate 002378 fro
 OP039473.1	11676	HIV-1	0	0.7550044928252851	UNVERIFIED: HIV-1 isolate 002408 from Uganda genomic sequence	002408	A1	UGANDA	1986.0
 AB253429.1	11676	HIV-1	0	0.857050141895404	Human immunodeficiency virus 1 proviral DNA, complete genome, clone: p92UG037A40	92UG037_A40	A1	UGANDA	1992.0
 AB098333.1	11676	HIV-1	0	0.903254313362956	Human immunodeficiency virus 1 proviral DNA, complete genome, clone:pUG029-A4	UG029	A1	UGANDA	1992.0
-AB485632.1	11676	HIV-1	0	0.8832825642110651	Human immunodeficiency virus 1 proviral DNA, complete genome, clone: pPRD320-01A44	UG275	A1	UGANDA	nan
+AB485632.1	11676	HIV-1	0	0.8832825642110651	Human immunodeficiency virus 1 proviral DNA, complete genome, clone: pPRD320-01A44	UG275	A1	UGANDA	
 AM000053.1	11676	HIV-1	0	0.842410294035151	Human immunodeficiency virus type 1 complete genome, subtype A4, isolate 97CD.KCC2	97CD_KCC2	A4	DEM REP OF CONGO	1997.0
 MN485977.1	11676	HIV-1	0	0.8738169515796893	HIV-1 isolate AG from Belgium, complete genome	AG	A6	BELGIUM	2014.0
 KT983615.1	11676	HIV-1	0	0.8926526071422918	HIV-1 isolate PV85 from Belarus, partial genome	PV85	A6	BELARUS	2013.0
@@ -133,7 +133,7 @@ MT369983.1	11676	HIV-1	0	0.8513273860258974	HIV-1 isolate RU_ERS_1103_2016 from 
 MT369984.1	11676	HIV-1	0	0.8882141386677316	HIV-1 isolate RU_ERS_1104_2016 from Russia, complete genome	RU_ERS_1104_2016	A6	RUSSIAN FEDERATION	2016.0
 OP056071.1	11676	HIV-1	0	0.8927286277847513	HIV-1 isolate KRS64-1 from Russia, complete genome	KRS64-1	A6	RUSSIAN FEDERATION	2017.0
 MZ427756.1	11676	HIV-1	0	0.8709941327714541	HIV-1 isolate RU_ERS_3068_2017 from Russia, complete genome	RU_ERS_3068_2017	A6	RUSSIAN FEDERATION	2017.0
-MH330357.1	11676	HIV-1	0	0.8806168668601371	HIV-1 isolate IRK007 from Russia, complete genome	IRK007	A6	RUSSIAN FEDERATION	nan
+MH330357.1	11676	HIV-1	0	0.8806168668601371	HIV-1 isolate IRK007 from Russia, complete genome	IRK007	A6	RUSSIAN FEDERATION	
 MN736699.1	11676	HIV-1	0	0.8891748920492769	HIV-1 isolate Sample25_SI209 from Slovenia gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds	Sample25_SI209	A6	SLOVENIA	2009.0
 AF413987.1	11676	HIV-1	0	0.91006112886946	HIV-1 isolate 98UA0116 from Ukraine, complete genome	98UA0116	A6	UKRAINE	2000.0
 KU749399.1	11676	HIV-1	0	0.8878666101220245	HIV-1 isolate DEMA111UA002 from Ukraine, partial genome	DEMA111UA002	A6	UKRAINE	2011.0
@@ -158,9 +158,9 @@ AF042101.1	11676	HIV-1	0	0.944798529763671	HIV-1 isolate MBC925 from Australia, 
 AF042103.1	11676	HIV-1	0	0.925366832433125	HIV-1 isolate MBCC54 from Australia, complete genome	MBCC54	B	AUSTRALIA	1995.0
 AF042105.1	11676	HIV-1	0	0.8859557223134387	HIV-1 isolate MBCD36 from Australia, complete genome	MBCD36	B	AUSTRALIA	1996.0
 AF538302.1	11676	HIV-1	0	0.9420892711915694	HIV-1 clone 1181 from Australia gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds	1181	B	AUSTRALIA	1999.0
-AY857022.1	11676	HIV-1	0	0.8016254403794039	HIV-1 isolate 2870718 from Australia, partial genome	2870718	B	AUSTRALIA	nan
-AY857165.1	11676	HIV-1	0	0.716120054200542	HIV-1 isolate 9125091 from Australia, partial genome	9125091	B	AUSTRALIA	nan
-AF146728.1	11676	HIV-1	0	0.9175697310065464	HIV-1 from Australia gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope protein (env), and nef protein (nef) genes, complete cds; and long terminal repeat, partial sequence	VH_VHPCR	B	AUSTRALIA	nan
+AY857022.1	11676	HIV-1	0	0.8016254403794039	HIV-1 isolate 2870718 from Australia, partial genome	2870718	B	AUSTRALIA	
+AY857165.1	11676	HIV-1	0	0.716120054200542	HIV-1 isolate 9125091 from Australia, partial genome	9125091	B	AUSTRALIA	
+AF146728.1	11676	HIV-1	0	0.9175697310065464	HIV-1 from Australia gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope protein (env), and nef protein (nef) genes, complete cds; and long terminal repeat, partial sequence	VH_VHPCR	B	AUSTRALIA	
 MN485972.1	11676	HIV-1	0	0.8952586859918059	HIV-1 isolate AB from Belgium, complete genome	AB	B	BELGIUM	2013.0
 MN485973.1	11676	HIV-1	0	0.9013769544108472	HIV-1 isolate AC from Belgium, complete genome	AC	B	BELGIUM	2013.0
 MN485974.1	11676	HIV-1	0	0.8622319924459614	HIV-1 isolate AD from Belgium, complete genome	AD	B	BELGIUM	2014.0
@@ -376,7 +376,7 @@ KU612900.1	11676	HIV-1	0	0.9333287586044064	HIV-1 isolate iso4-w10 from Germany,
 MK116212.1	11676	HIV-1	0	0.8007573956031523	HIV-1 isolate 9255_W12_5H24_S1 from Germany partial defective genome	9255_W12_5H24_S1	B	GERMANY	2016.0
 MK086129.1	11676	HIV-1	0	0.8956121778055592	HIV-1 isolate Strain0526 from Germany, partial genome	Strain0526	B	GERMANY	2017.0
 U43141.1	11676	HIV-1	0	0.9305758664833146	Human immunodeficiency virus type 1 complete genome	HAN	B	GERMANY	1986.0
-KC596067.1	11676	HIV-1	0	0.9221333203783548	HIV-1 isolate DEMBXXDE001 from Germany nonfunctional gag protein (gag) gene, complete sequence; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds	DEMBXXDE001	B	GERMANY	nan
+KC596067.1	11676	HIV-1	0	0.9221333203783548	HIV-1 isolate DEMBXXDE001 from Germany nonfunctional gag protein (gag) gene, complete sequence; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds	DEMBXXDE001	B	GERMANY	
 EF514704.1	11676	HIV-1	0	0.9372537470192396	HIV-1 isolate CTL 016 from Denmark, complete genome	CTL_016	B	DENMARK	2001.0
 EF514705.1	11676	HIV-1	0	0.900865030793072	HIV-1 isolate CTL 017 from Denmark, complete genome	CTL_017	B	DENMARK	2001.0
 EF514706.1	11676	HIV-1	0	0.9382588508013284	HIV-1 isolate CTL 018 from Denmark, complete genome	CTL_018	B	DENMARK	2001.0
@@ -448,12 +448,12 @@ MT222952.1	11676	HIV-1	0	0.9247243956778654	HIV-1 isolate DEMB18UK020 from Unite
 D10112.1	11676	HIV-1	0	0.8976468698339417	Human immunodeficiency virus 1 proviral DNA, complete genome	CAM1	B	UNITED KINGDOM	1983.0
 AJ271445.1	11676	HIV-1	0	0.9329546863112916	Human immunodeficiency virus type 1 proviral genome, isolate GB8, clone 46R	GB8_46R	B	UNITED KINGDOM	1986.0
 KJ019215.1	11676	HIV-1	0	0.9088155367521368	HIV-1 isolate NIBSC-1 from United Kingdom gag protein (gag), pol protein (pol), vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds	NIBSC-1	B	UNITED KINGDOM	1994.0
-U23487.1	11676	HIV-1	0	0.9406540702789806	Human immunodeficiency virus type 1 kidney sample from Manchester, UK, complete genome	MANC	B	UNITED KINGDOM	nan
+U23487.1	11676	HIV-1	0	0.9406540702789806	Human immunodeficiency virus type 1 kidney sample from Manchester, UK, complete genome	MANC	B	UNITED KINGDOM	
 MH078546.1	11676	HIV-1	0	0.9086258204579744	HIV-1 isolate DEMB14GW004 from Guinea-Bissau, partial genome	DEMB14GW004	B	GUINEA-BISSAU	2014.0
 FJ460500.1	11676	HIV-1	0	0.8932695240379283	HIV-1 isolate HK003 from Hong Kong, complete genome	HK003	B	HONG KONG	2006.0
 FJ460501.1	11676	HIV-1	0	0.8984698284736403	HIV-1 isolate HK004 from Hong Kong, complete genome	HK004	B	HONG KONG	2006.0
 MH078551.1	11676	HIV-1	0	0.9273226426737596	HIV-1 isolate DEURF11HT001 from Haiti, partial genome	DEURF11HT001	B	HAITI	2011.0
-EF694037.1	11676	HIV-1	0	0.8145627007465317	HIV-1 isolate 11807 clone 1 from India gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), and vpu protein (vpu) genes, complete cds; env gene, complete sequence; and nef protein (nef) gene, complete cds	11807	B	INDIA	nan
+EF694037.1	11676	HIV-1	0	0.8145627007465317	HIV-1 isolate 11807 clone 1 from India gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), and vpu protein (vpu) genes, complete cds; env gene, complete sequence; and nef protein (nef) gene, complete cds	11807	B	INDIA	
 AB289588.1	11676	HIV-1	0	0.914023127101158	Human immunodeficiency virus 1 proviral DNA, complete genome, clone: p00JPDR2508B60	DR2508	B	JAPAN	2000.0
 AB289590.1	11676	HIV-1	0	0.926348571564811	Human immunodeficiency virus 1 proviral DNA, complete genome, clone: p01JPDR3884B50	DR388	B	JAPAN	2001.0
 AB221125.1	11676	HIV-1	0	0.8848641133379445	Human immunodeficiency virus 1 proviral DNA, complete genome, p04JPDR6075B-39	04JPDR6075B	B	JAPAN	2004.0
@@ -472,13 +472,13 @@ AB731669.1	11676	HIV-1	0	0.9147776937875688	Human immunodeficiency virus 1 provi
 KF716498.1	11676	HIV-1	0	0.9063046920510311	HIV-1 isolate DEMB12JP001 from Japan gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds	DEMB12JP001	B	JAPAN	2012.0
 AB480698.1	11676	HIV-1	0	0.8909488352597487	Human immunodeficiency virus 1 proviral DNA, complete genome, clone: p98JPDR1120B22	DR1120	B	JAPAN	1998.0
 AB287370.1	11676	HIV-1	0	0.9221969220695088	Human immunodeficiency virus 1 proviral DNA, complete genome, clone: p99JPDR1348B72	DR1348	B	JAPAN	1999.0
-AB564745.1	11676	HIV-1	0	0.8950239145751312	Human immunodeficiency virus 1 proviral DNA, complete genome, clone: pJPDR1673B41	DR1673	B	JAPAN	nan
-AB604946.1	11676	HIV-1	0	0.9372502650095074	Human immunodeficiency virus 1 proviral DNA, complete genome, clone: pJPDR1712B75	DR1712	B	JAPAN	nan
-AB565496.1	11676	HIV-1	0	0.8925873444170545	Human immunodeficiency virus 1 proviral DNA, complete genome, clone: pJRC03B38	JRC03B	B	JAPAN	nan
-AB565497.1	11676	HIV-1	0	0.9248282167982774	Human immunodeficiency virus 1 proviral DNA, complete genome, clone: pJRC05B15	JRC05B	B	JAPAN	nan
-AB565502.1	11676	HIV-1	0	0.8835713999636009	Human immunodeficiency virus 1 proviral DNA, complete genome, clone: pJRC65B30	JRC65B	B	JAPAN	nan
-AB565478.1	11676	HIV-1	0	0.8918713535650171	Human immunodeficiency virus 1 proviral DNA, complete genome, clone: pJPDR0796B02	pJPDR0796B02	B	JAPAN	nan
-AB641836.2	11676	HIV-1	0	0.9173562490577828	Human immunodeficiency virus 1 proviral DNA, complete genome, clone: pJRC57B09	pJRC57B09	B	JAPAN	nan
+AB564745.1	11676	HIV-1	0	0.8950239145751312	Human immunodeficiency virus 1 proviral DNA, complete genome, clone: pJPDR1673B41	DR1673	B	JAPAN	
+AB604946.1	11676	HIV-1	0	0.9372502650095074	Human immunodeficiency virus 1 proviral DNA, complete genome, clone: pJPDR1712B75	DR1712	B	JAPAN	
+AB565496.1	11676	HIV-1	0	0.8925873444170545	Human immunodeficiency virus 1 proviral DNA, complete genome, clone: pJRC03B38	JRC03B	B	JAPAN	
+AB565497.1	11676	HIV-1	0	0.9248282167982774	Human immunodeficiency virus 1 proviral DNA, complete genome, clone: pJRC05B15	JRC05B	B	JAPAN	
+AB565502.1	11676	HIV-1	0	0.8835713999636009	Human immunodeficiency virus 1 proviral DNA, complete genome, clone: pJRC65B30	JRC65B	B	JAPAN	
+AB565478.1	11676	HIV-1	0	0.8918713535650171	Human immunodeficiency virus 1 proviral DNA, complete genome, clone: pJPDR0796B02	pJPDR0796B02	B	JAPAN	
+AB641836.2	11676	HIV-1	0	0.9173562490577828	Human immunodeficiency virus 1 proviral DNA, complete genome, clone: pJRC57B09	pJRC57B09	B	JAPAN	
 MN043590.1	11676	HIV-1	0	0.9170417915673936	HIV-1 isolate 00LJI12 from South Korea, complete genome	00LJI12	B	SOUTH KOREA	2000.0
 KJ140264.1	11676	HIV-1	0	0.9141558958923766	HIV-1 isolate HP-19:02LGS11-3443 from South Korea, partial genome	HP-19_02LGS11-3443	B	SOUTH KOREA	2002.0
 JQ316128.1	11676	HIV-1	0	0.8903469259529759	HIV-1 isolate HP-9:03KDE11, complete genome	03KDE11	B	SOUTH KOREA	2003.0
@@ -512,7 +512,7 @@ MH078554.1	11676	HIV-1	0	0.9082957894192074	HIV-1 isolate DEMB16PE003 from Peru,
 MH078555.1	11676	HIV-1	0	0.8735211631466369	HIV-1 isolate DEMB16PE009 from Peru, partial genome	DEMB16PE009	B	PERU	2016.0
 KY658690.1	11676	HIV-1	0	0.9280921170355294	HIV-1 isolate DEMB15PH003 from Philippines, partial genome	DEMB15PH003	B	PHILIPPINES	2015.0
 MH327757.1	11676	HIV-1	0	0.8501560974682163	HIV-1 isolate 1022 from Philippines, complete genome	1022	B	PHILIPPINES	2016.0
-KC596069.1	11676	HIV-1	0	0.9244493635715852	HIV-1 isolate DEMBXXPL001 from Poland gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; vif protein (vif), vpr protein (vpr), tat protein (tat), and rev protein (rev) genes, complete cds; nonfunctional vpu protein (vpu) gene, complete sequence; and envelope glycoprotein (env) and nef protein (nef) genes, complete cds	DEMBXXPL001	B	POLAND	nan
+KC596069.1	11676	HIV-1	0	0.9244493635715852	HIV-1 isolate DEMBXXPL001 from Poland gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; vif protein (vif), vpr protein (vpr), tat protein (tat), and rev protein (rev) genes, complete cds; nonfunctional vpu protein (vpu) gene, complete sequence; and envelope glycoprotein (env) and nef protein (nef) genes, complete cds	DEMBXXPL001	B	POLAND	
 AY682547.1	11676	HIV-1	0	0.9003737336240374	HIV-1 isolate 04RU128005 from Russia, complete genome	04RU128005	B	RUSSIAN FEDERATION	2004.0
 AY751407.1	11676	HIV-1	0	0.937334604769844	HIV-1 isolate 04RU139089 from Russia, complete genome	04RU139089	B	RUSSIAN FEDERATION	2004.0
 AY819715.1	11676	HIV-1	0	0.9130982832603368	HIV-1 isolate 04RU139095 from Russia, complete genome	04RU139095	B	RUSSIAN FEDERATION	2004.0
@@ -687,32 +687,32 @@ AY560107.1	11676	HIV-1	0	0.9244655868568424	HIV-1 isolate 98USHVTN1925c1 from US
 AY560108.1	11676	HIV-1	0	0.9330578552507006	HIV-1 isolate 98USHVTN3605c9 from USA, complete genome	98USHVTN3605c9	B	UNITED STATES	1998.0
 AY560109.1	11676	HIV-1	0	0.8899361910483305	HIV-1 isolate 98USHVTN8229c6 from USA, complete genome	98USHVTN8229c6	B	UNITED STATES	1998.0
 AY560110.1	11676	HIV-1	0	0.8954502720543206	HIV-1 isolate 98USHVTN941c1 from USA, complete genome	98USHVTN941c1	B	UNITED STATES	1998.0
-MT929372.1	11676	HIV-1	0	0.9063961372044232	HIV-1 isolate 004.REB.4D1, complete genome	004.REB.4D1	B	UNITED STATES	nan
-MT929380.1	11676	HIV-1	0	0.9017397882289118	HIV-1 isolate 044.REB.6F1, complete genome	044.REB.6F1	B	UNITED STATES	nan
+MT929372.1	11676	HIV-1	0	0.9063961372044232	HIV-1 isolate 004.REB.4D1, complete genome	004.REB.4D1	B	UNITED STATES	
+MT929380.1	11676	HIV-1	0	0.9017397882289118	HIV-1 isolate 044.REB.6F1, complete genome	044.REB.6F1	B	UNITED STATES	
 MT033350.1	11676	HIV-1	0	0.8251104544942446	HIV-1 isolate 058301_B11 from USA gag protein (gag) gene, complete cds; nonfunctional pol protein (pol) gene, partial sequence; vif protein (vif) gene, complete cds; nonfunctional vpr protein (vpr) and nonfunctional tat protein (tat) genes, complete sequence; rev protein (rev) and vpu protein (vpu) genes, complete cds; and nonfunctional envelope glycoprotein (env) and nonfunctional nef protein (nef) genes, complete sequence	-	-	-	-
-MT033776.1	11676	HIV-1	0	0.8006838748428116	HIV-1 isolate 121103_H02 from USA gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), and vpu protein (vpu) genes, complete cds; nonfunctional envelope glycoprotein (env) gene, complete sequence; and nef protein (nef) gene, complete cds	121103_H02	B	UNITED STATES	nan
-MT929386.1	11676	HIV-1	0	0.9226400216974522	HIV-1 isolate 601.REB.4B7, complete genome	601.REB.4B7	B	UNITED STATES	nan
-MT929390.1	11676	HIV-1	0	0.929241561999686	HIV-1 isolate 9242.REB.13B1, complete genome	9242.REB.13B1	B	UNITED STATES	nan
-MT929395.1	11676	HIV-1	0	0.9214145210467568	HIV-1 isolate 9243.REB.13F7, complete genome	9243.REB.13F7	B	UNITED STATES	nan
-MT929396.1	11676	HIV-1	0	0.8951431486495163	HIV-1 isolate 9244.REB.7A1, complete genome	9244.REB.7A1	B	UNITED STATES	nan
-MT929418.1	11676	HIV-1	0	0.941008377854269	HIV-1 isolate A08.REB.1A5, complete genome	A08.REB.1A5	B	UNITED STATES	nan
-MT929435.1	11676	HIV-1	0	0.9179306666210438	HIV-1 isolate A09.REB.1A2, complete genome	A09.REB.1A2	B	UNITED STATES	nan
-FJ469694.1	11676	HIV-1	0	0.8609476794209195	HIV-1 isolate CR0059T from USA gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and envelope glycoprotein (env) and nef protein (nef) genes, complete cds	CR0059T	B	UNITED STATES	nan
-MT929446.1	11676	HIV-1	0	0.9308570220800932	HIV-1 isolate S22.REB.3B6, complete genome	S22.REB.3B6	B	UNITED STATES	nan
-MT929447.1	11676	HIV-1	0	0.8962029981783723	HIV-1 isolate S23.REB.24A5, complete genome	S23.REB.24A5	B	UNITED STATES	nan
-MT929450.1	11676	HIV-1	0	0.906959308535776	HIV-1 isolate S30.REB.2D2, complete genome	S30.REB.2D2	B	UNITED STATES	nan
-MT635144.1	11676	HIV-1	0	0.9076122723364743	HIV-1 isolate 03-043 from Viet Nam, complete genome	03-043	B	VIETNAM	nan
+MT033776.1	11676	HIV-1	0	0.8006838748428116	HIV-1 isolate 121103_H02 from USA gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), and vpu protein (vpu) genes, complete cds; nonfunctional envelope glycoprotein (env) gene, complete sequence; and nef protein (nef) gene, complete cds	121103_H02	B	UNITED STATES	
+MT929386.1	11676	HIV-1	0	0.9226400216974522	HIV-1 isolate 601.REB.4B7, complete genome	601.REB.4B7	B	UNITED STATES	
+MT929390.1	11676	HIV-1	0	0.929241561999686	HIV-1 isolate 9242.REB.13B1, complete genome	9242.REB.13B1	B	UNITED STATES	
+MT929395.1	11676	HIV-1	0	0.9214145210467568	HIV-1 isolate 9243.REB.13F7, complete genome	9243.REB.13F7	B	UNITED STATES	
+MT929396.1	11676	HIV-1	0	0.8951431486495163	HIV-1 isolate 9244.REB.7A1, complete genome	9244.REB.7A1	B	UNITED STATES	
+MT929418.1	11676	HIV-1	0	0.941008377854269	HIV-1 isolate A08.REB.1A5, complete genome	A08.REB.1A5	B	UNITED STATES	
+MT929435.1	11676	HIV-1	0	0.9179306666210438	HIV-1 isolate A09.REB.1A2, complete genome	A09.REB.1A2	B	UNITED STATES	
+FJ469694.1	11676	HIV-1	0	0.8609476794209195	HIV-1 isolate CR0059T from USA gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and envelope glycoprotein (env) and nef protein (nef) genes, complete cds	CR0059T	B	UNITED STATES	
+MT929446.1	11676	HIV-1	0	0.9308570220800932	HIV-1 isolate S22.REB.3B6, complete genome	S22.REB.3B6	B	UNITED STATES	
+MT929447.1	11676	HIV-1	0	0.8962029981783723	HIV-1 isolate S23.REB.24A5, complete genome	S23.REB.24A5	B	UNITED STATES	
+MT929450.1	11676	HIV-1	0	0.906959308535776	HIV-1 isolate S30.REB.2D2, complete genome	S30.REB.2D2	B	UNITED STATES	
+MT635144.1	11676	HIV-1	0	0.9076122723364743	HIV-1 isolate 03-043 from Viet Nam, complete genome	03-043	B	VIETNAM	
 DQ396398.1	11676	HIV-1	0	0.9168063741114576	HIV-1 isolate 03ZAPS045MB2 from South Africa, complete genome	03ZAPS045MB2	B	SOUTH AFRICA	2003.0
 KP109515.1	11676	HIV-1	0	0.8915654621842273	HIV-1 isolate DEMB09ZA022 from South Africa gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds	DEMB09ZA022	B	SOUTH AFRICA	2009.0
-KU168257.1	11676	HIV-1	0	0.9263896104443116	HIV-1 isolate LA02FolC, complete genome	LA02FolC	B	nan	2000.0
-KU168258.1	11676	HIV-1	0	0.9418958588837876	HIV-1 isolate LA03BlEr, complete genome	LA03BlEr	B	nan	2002.0
-KU168259.1	11676	HIV-1	0	0.9278800050398406	HIV-1 isolate LA04GuFu, complete genome	LA04GuFu	B	nan	2002.0
-KU168260.1	11676	HIV-1	0	0.9054169414115985	HIV-1 isolate LA05MeAl, complete genome	LA05MeAl	B	nan	2003.0
-KY658703.1	11676	HIV-1	0	0.9461825436204254	HIV-1 isolate DEURF10HA002, partial genome	DEURF10HA002	B	nan	2010.0
-MW689460.1	11676	HIV-1	0	0.925024844087369	HIV-1 isolate VB_variant_11, complete genome	HypervirulentDutchHIV_11	B	nan	nan
-MW689465.1	11676	HIV-1	0	0.9298367415364912	HIV-1 isolate VB_variant_16, complete genome	HypervirulentDutchHIV_16	B	nan	nan
-MT458931.1	11676	HIV-1	0	0.8979141545328578	HIV-1 isolate VB_variant_1, complete genome	HypervirulentDutchHIV_1	B	nan	nan
-MT458933.1	11676	HIV-1	0	0.9323218253517768	HIV-1 isolate VB_variant_3, complete genome	HypervirulentDutchHIV_3	B	nan	nan
+KU168257.1	11676	HIV-1	0	0.9263896104443116	HIV-1 isolate LA02FolC, complete genome	LA02FolC	B		2000.0
+KU168258.1	11676	HIV-1	0	0.9418958588837876	HIV-1 isolate LA03BlEr, complete genome	LA03BlEr	B		2002.0
+KU168259.1	11676	HIV-1	0	0.9278800050398406	HIV-1 isolate LA04GuFu, complete genome	LA04GuFu	B		2002.0
+KU168260.1	11676	HIV-1	0	0.9054169414115985	HIV-1 isolate LA05MeAl, complete genome	LA05MeAl	B		2003.0
+KY658703.1	11676	HIV-1	0	0.9461825436204254	HIV-1 isolate DEURF10HA002, partial genome	DEURF10HA002	B		2010.0
+MW689460.1	11676	HIV-1	0	0.925024844087369	HIV-1 isolate VB_variant_11, complete genome	HypervirulentDutchHIV_11	B		
+MW689465.1	11676	HIV-1	0	0.9298367415364912	HIV-1 isolate VB_variant_16, complete genome	HypervirulentDutchHIV_16	B		
+MT458931.1	11676	HIV-1	0	0.8979141545328578	HIV-1 isolate VB_variant_1, complete genome	HypervirulentDutchHIV_1	B		
+MT458933.1	11676	HIV-1	0	0.9323218253517768	HIV-1 isolate VB_variant_3, complete genome	HypervirulentDutchHIV_3	B		
 MN485984.1	11676	HIV-1	0	0.855332759479405	HIV-1 isolate AN from Belgium, complete genome	AN	C	BELGIUM	2015.0
 JN692434.1	11676	HIV-1	0	0.8052486899280389	UNVERIFIED: HIV-1 isolate 02BR2022 from Brazil gag protein, vif protein, vpr protein, vpu protein, envelope glycoprotein, and nef protein genes, complete cds	02BR2022	C	BRAZIL	2002.0
 JX140663.1	11676	HIV-1	0	0.8643617995640447	HIV-1 isolate DEMC07BR003 from Brazil gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; nonfunctional vif protein (vif) gene, complete sequence; vpr protein (vpr) gene, complete cds; nonfunctional tat protein (tat) gene, complete sequence; and rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds	DEMC07BR003	C	BRAZIL	2007.0
@@ -753,7 +753,7 @@ AF443087.1	11676	HIV-1	0	0.8788764090553269	HIV-1 isolate 99BWMC16.8 from Botswa
 KF835522.1	11676	HIV-1	0	0.8227523206330772	HIV-1 isolate 07CNYN336 from China gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; vif protein (vif) and vpr protein (vpr) genes, complete cds; nonfunctional tat protein (tat) gene, complete sequence; and rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds	07CNYN336	C	CHINA	2007.0
 KF250404.1	11676	HIV-1	0	0.8294390501678395	HIV-1 isolate DH22 from China gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; vif protein (vif) and vpr protein (vpr) genes, complete cds; nonfunctional tat protein (tat) gene, complete sequence; and rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds	DH22	C	CHINA	2009.0
 KC870038.1	11676	HIV-1	0	0.8195773243368563	HIV-1 isolate YNFL19 from China gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; vif protein (vif) and vpr protein (vpr) genes, complete cds; nonfunctional tat protein (tat) gene, complete sequence; and rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds	YNFL19	C	CHINA	2010.0
-AB485643.1	11676	HIV-1	0	0.8734870665444292	Human immunodeficiency virus 1 proviral DNA, complete genome, clone: pPRD320-07C10	DJ259	C	DJIBOUTI	nan
+AB485643.1	11676	HIV-1	0	0.8734870665444292	Human immunodeficiency virus 1 proviral DNA, complete genome, clone: pPRD320-07C10	DJ259	C	DJIBOUTI	
 EF514713.1	11676	HIV-1	0	0.8480691574535826	HIV-1 isolate CTL 015 from Denmark, complete genome	CTL_015	C	DENMARK	2001.0
 KX228820.1	11676	HIV-1	0	0.8789590237357296	HIV-1 isolate Read4_HIV_C from Angola, partial genome	Read4_HIV_C	C	SPAIN	2007.0
 EU786681.1	11676	HIV-1	0	0.8380573653637523	HIV-1 isolate ES X2363-2 (C) from Spain, complete genome	X2363_2	C	SPAIN	2008.0
@@ -783,8 +783,8 @@ KP109486.1	11676	HIV-1	0	0.8835745668400136	HIV-1 isolate DEMC99IN001 from India
 KP109487.1	11676	HIV-1	0	0.8907249417677341	HIV-1 isolate DEMC99IN002 from India gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds	DEMC99IN002	C	INDIA	1999.0
 KP109488.1	11676	HIV-1	0	0.8650898053015303	HIV-1 isolate DEMC99IN003 from India gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; vif protein (vif), vpr protein (vpr), tat protein (tat), and rev protein (rev) genes, complete cds; nonfunctional vpu protein (vpu) gene, complete sequence; and envelope glycoprotein (env) and nef protein (nef) genes, complete cds	DEMC99IN003	C	INDIA	1999.0
 KP109489.1	11676	HIV-1	0	0.88327282653538	HIV-1 isolate DEMC99IN004 from India gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds	DEMC99IN004	C	INDIA	1999.0
-EF694033.1	11676	HIV-1	0	0.8745086235970168	HIV-1 isolate VB39 clone 2 from India gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; vif gene, complete sequence; and vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds	VB39	C	INDIA	nan
-EF694036.1	11676	HIV-1	0	0.8181946912379459	HIV-1 isolate VB49 clone 3 from India gag gene, complete sequence; pol protein (pol) gene, partial cds; vif protein (vif), vpr protein (vpr), and tat protein (tat) genes, complete cds; rev gene, complete sequence; and vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds	VB49	C	INDIA	nan
+EF694033.1	11676	HIV-1	0	0.8745086235970168	HIV-1 isolate VB39 clone 2 from India gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; vif gene, complete sequence; and vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds	VB39	C	INDIA	
+EF694036.1	11676	HIV-1	0	0.8181946912379459	HIV-1 isolate VB49 clone 3 from India gag gene, complete sequence; pol protein (pol) gene, partial cds; vif protein (vif), vpr protein (vpr), and tat protein (tat) genes, complete cds; rev gene, complete sequence; and vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds	VB49	C	INDIA	
 KC156212.1	11676	HIV-1	0	0.8834593136274964	HIV-1 isolate CH141.w12 from Malawi, complete genome	702010141_CH141.w12	C	MALAWI	2007.0
 KC156211.1	11676	HIV-1	0	0.8515606131858835	HIV-1 isolate CH085.w4a from Malawi, complete genome	703010085_CH085.w4a	C	MALAWI	2007.0
 KC156114.1	11676	HIV-1	0	0.8851090342105863	HIV-1 isolate CH131_TF from Malawi, complete genome	703010131_CH131_TF	C	MALAWI	2007.0
@@ -1110,8 +1110,8 @@ EU293445.1	11676	HIV-1	0	0.8860779805150951	HIV-1 isolate 99ZALT5 from South Afr
 AY228556.1	11676	HIV-1	0	0.8805025549199648	HIV-1 isolate 99ZATM10 from South Africa, complete genome	99ZATM10	C	SOUTH AFRICA	1999.0
 KU168308.1	11676	HIV-1	0	0.8470127257639748	HIV-1 isolate ZA8119636 from South Africa, complete genome	ZA8119636	C	SOUTH AFRICA	1999.0
 AF411966.1	11676	HIV-1	0	0.873758423949635	HIV-1 isolate 99ZASW7 from South Africa, complete genome	ZASW7	C	SOUTH AFRICA	1999.0
-MT222959.1	11676	HIV-1	0	0.8441759340353512	HIV-1 isolate DEMCXXZA190 from South Africa, complete genome	DEMCXXZA190	C	SOUTH AFRICA	nan
-MT222960.1	11676	HIV-1	0	0.8722185549809889	HIV-1 isolate DEMCXXZA193 from South Africa, complete genome	DEMCXXZA193	C	SOUTH AFRICA	nan
+MT222959.1	11676	HIV-1	0	0.8441759340353512	HIV-1 isolate DEMCXXZA190 from South Africa, complete genome	DEMCXXZA190	C	SOUTH AFRICA	
+MT222960.1	11676	HIV-1	0	0.8722185549809889	HIV-1 isolate DEMCXXZA193 from South Africa, complete genome	DEMCXXZA193	C	SOUTH AFRICA	
 AB254141.1	11676	HIV-1	0	0.8801920104082648	Human immunodeficiency virus 1 proviral DNA, complete genome, clone:p02ZM108C12	02ZM108	C	ZAMBIA	2002.0
 AB254142.1	11676	HIV-1	0	0.8507440925881065	Human immunodeficiency virus 1 proviral DNA, complete genome, clone:p02ZM110C07	02ZM110	C	ZAMBIA	2002.0
 AB254146.1	11676	HIV-1	0	0.8606144846179037	Human immunodeficiency virus 1 proviral DNA, complete genome, clone:p02ZM114C27	02ZM114	C	ZAMBIA	2002.0
@@ -1151,8 +1151,8 @@ MT194782.1	11676	HIV-1	0	0.8827224827239619	HIV-1 isolate ZM1658F_01Nov2011_1A_1
 MT195378.1	11676	HIV-1	0	0.8535460335954802	HIV-1 isolate ZM634F_18May2011_1A_28_N from Zambia, complete genome	ZM634F_18May2011_1A_28_N	C	ZAMBIA	2011.0
 MT194468.1	11676	HIV-1	0	0.8806083314016044	HIV-1 isolate ZM1123M_10Jan2012_1A_1_N from Zambia, complete genome	ZM1123M_10Jan2012_1A_1_N	C	ZAMBIA	2012.0
 AB485645.1	11676	HIV-1	0	0.8838845926928235	Human immunodeficiency virus 1 proviral DNA, complete genome, clone: pPRD320-08C05	ZAM18	C	ZAMBIA	1989.0
-AY805330.1	11676	HIV-1	0	0.88825629735545	HIV-1 isolate HIV1084i from Zambia, complete genome	HIV1084i	C	ZAMBIA	nan
-KU168262.1	11676	HIV-1	0	0.8795614042955453	HIV-1 isolate LA07SeJe, complete genome	LA07SeJe	C	nan	2003.0
+AY805330.1	11676	HIV-1	0	0.88825629735545	HIV-1 isolate HIV1084i from Zambia, complete genome	HIV1084i	C	ZAMBIA	
+KU168262.1	11676	HIV-1	0	0.8795614042955453	HIV-1 isolate LA07SeJe, complete genome	LA07SeJe	C		2003.0
 MN486042.1	11676	HIV-1	0	0.8862165345735391	HIV-1 isolate CT from Belgium, complete genome	CT	D	BELGIUM	2003.0
 KJ787684.1	11676	HIV-1	0	0.8323382432161096	HIV-1 isolate 10BR_RJ095 from Brazil, partial genome	10BR_RJ095	D	BRAZIL	2010.0
 KY392769.1	11676	HIV-1	0	0.8761312914502943	HIV-1 isolate CG-0382-02V from Democratic Republic of the Congo, complete genome	CG-0382-02V_NGSID3	D	DEM REP OF CONGO	2002.0
@@ -1198,13 +1198,13 @@ KU749396.1	11676	HIV-1	0	0.8643388357161426	HIV-1 isolate DEMF111BR037 from Braz
 MG365762.1	11676	HIV-1	0	0.8573236250619944	HIV-1 isolate 12BRRJP05 from Brazil, complete genome	12BRRJP05	F1	BRAZIL	2012.0
 MG365764.1	11676	HIV-1	0	0.8877388384844398	HIV-1 isolate 12BRRJPR51 from Brazil, complete genome	12BRRJPR51	F1	BRAZIL	2012.0
 MK041565.1	11676	HIV-1	0	0.7895305117353528	HIV-1 clone 9F_ABCD from Brazil nonfunctional gag-pol protein (gag-pol) and nonfunctional gag protein (gag) genes, complete sequence; vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), and vpu protein (vpu) genes, complete cds; nonfunctional envelope glycoprotein (env) gene, complete sequence; and nef protein (nef) gene, complete cds	9HU-UFRJ-2016	F1	BRAZIL	2016.0
-EU446022.1	11676	HIV-1	0	0.8541114079887038	HIV-1 isolate MVP-30846, complete genome	MVP_30846	F1	GERMANY	nan
+EU446022.1	11676	HIV-1	0	0.8541114079887038	HIV-1 isolate MVP-30846, complete genome	MVP_30846	F1	GERMANY	
 FJ670516.2	11676	HIV-1	0	0.8780588179689068	HIV-1 strain ES X845-4 from Spain, complete genome	ES_X845-4	F1	SPAIN	2002.0
 JX140671.1	11676	HIV-1	0	0.8470970701048459	HIV-1 isolate DEMF110ES001 from Spain nonfunctional gag protein (gag) gene, complete sequence; pol protein (pol) gene, partial cds; nonfunctional vif protein (vif) gene, complete sequence; vpr protein (vpr) gene, complete cds; nonfunctional tat protein (tat) gene, complete sequence; rev protein (rev), vpu protein (vpu), and envelope glycoprotein (env) genes, complete cds; and nonfunctional nef protein (nef) gene, complete sequence	DEMF110ES001	F1	SPAIN	2011.0
 KJ883138.1	11676	HIV-1	0	0.8796331263709343	HIV-1 isolate VA0053_nfl from Spain gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds	VA0053_nfl	F1	SPAIN	2011.0
 MK177827.1	11676	HIV-1	0	0.8751111176200825	HIV-1 isolate P4346 from Spain, partial genome	P4346	F1	SPAIN	2015.0
-DQ979025.1	11676	HIV-1	0	0.8595412155404333	HIV-1 isolate X1093-2 from Spain, complete genome	X1093_2	F1	SPAIN	nan
-DQ979024.1	11676	HIV-1	0	0.8645749788713197	HIV-1 isolate X1670 from Spain, complete genome	X1670	F1	SPAIN	nan
+DQ979025.1	11676	HIV-1	0	0.8595412155404333	HIV-1 isolate X1093-2 from Spain, complete genome	X1093_2	F1	SPAIN	
+DQ979024.1	11676	HIV-1	0	0.8645749788713197	HIV-1 isolate X1670 from Spain, complete genome	X1670	F1	SPAIN	
 AF075703.1	11676	HIV-1	0	0.8684052365884047	HIV-1 isolate FIN9363 subtype F1 from Finland, complete genome	FIN9363	F1	FINLAND	1993.0
 KU168274.1	11676	HIV-1	0	0.8723623768595548	HIV-1 isolate LA20DuCl from Romania, complete genome	LA20DuCl	F1	ROMANIA	2003.0
 AB485658.1	11676	HIV-1	0	0.8645987647630469	Human immunodeficiency virus 1 proviral DNA, complete genome, clone: pPRD320-14F45	BCI_R07	F1	ROMANIA	1996.0
@@ -1227,10 +1227,10 @@ KU685592.1	11676	HIV-1	0	0.8675944194195937	HIV-1 isolate EUR-0033 from Spain ga
 AB287004.1	11676	HIV-1	0	0.8765079237448881	Human immunodeficiency virus 1 proviral DNA, complete genome, clone: p03GH175G29	03GH175G	G	GHANA	2003.0
 KY953202.1	11676	HIV-1	0	0.8789862973525565	HIV-1 isolate DEMG11NG008 from Nigeria, partial genome	DEMG11NG008	G	NIGERIA	2011.0
 U88826.1	11676	HIV-1	0	0.8790995013901892	HIV-1 isolate 92NG083 from Nigeria complete genome	92NG083_JV10832	G	NIGERIA	1992.0
-FR846408.1	11676	HIV-1	0	0.8264655786193706	Human immunodeficiency virus 1 proviral complete genome, strain PT3037	PT3037	G	PORTUGAL	nan
-FR846409.1	11676	HIV-1	0	0.8627797411943907	Human immunodeficiency virus 1 proviral complete genome, strain 3306	PT3306	G	PORTUGAL	nan
-FR846410.1	11676	HIV-1	0	0.7570364828090387	Human immunodeficiency virus 1 proviral complete genome, strain 988	PT988	G	PORTUGAL	nan
-KU168278.1	11676	HIV-1	0	0.8383568771924614	HIV-1 isolate LA24HoCe, complete genome	LA24HoCe	G	nan	2003.0
+FR846408.1	11676	HIV-1	0	0.8264655786193706	Human immunodeficiency virus 1 proviral complete genome, strain PT3037	PT3037	G	PORTUGAL	
+FR846409.1	11676	HIV-1	0	0.8627797411943907	Human immunodeficiency virus 1 proviral complete genome, strain 3306	PT3306	G	PORTUGAL	
+FR846410.1	11676	HIV-1	0	0.7570364828090387	Human immunodeficiency virus 1 proviral complete genome, strain 988	PT988	G	PORTUGAL	
+KU168278.1	11676	HIV-1	0	0.8383568771924614	HIV-1 isolate LA24HoCe, complete genome	LA24HoCe	G		2003.0
 AF190128.1	11676	HIV-1	0	0.8052351294529281	HIV-1 isolate VI997 from Belgium Gag polyprotein (gag), truncated Pol polyprotein (pol), Vif (vif), truncated Vpr (vpr), Tat (tat), Rev (rev), Vpu (vpu), envelope glycoprotein precursor (env), and Nef (nef) genes, complete cds	VI997	H	BELGIUM	1993.0
 KY392779.1	11676	HIV-1	0	0.8569789979714425	HIV-1 isolate CG-0260-02V from Democratic Republic of the Congo, complete genome	CG-0260-02V_NGSID16	H	DEM REP OF CONGO	2001.0
 KY392777.1	11676	HIV-1	0	0.8407533309021875	HIV-1 isolate CG-0536-02 from Democratic Republic of the Congo, complete genome	CG-0536-02_NGSID14	H	DEM REP OF CONGO	2001.0
@@ -1326,12 +1326,12 @@ KC870039.1	11676	HIV-1	0	0.8888567698161591	HIV-1 isolate YNFL20 from China gag 
 KC870041.1	11676	HIV-1	0	0.8829026220531897	HIV-1 isolate YNFL23 from China gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds	YNFL23	01_AE	CHINA	2010.0
 KP109508.1	11676	HIV-1	0	0.8869214661576028	HIV-1 isolate DE00112CN011 from China gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds	DE00112CN011	01_AE	CHINA	2012.0
 MT624757.1	11676	HIV-1	0	0.8949579317944958	HIV-1 isolate 16YN666 from China gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds	16YN666	01_AE	CHINA	2016.0
-MT624753.1	11676	HIV-1	0	0.8918690669797711	HIV-1 isolate 16YN642 from China gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds	16YN642	01_AE	CHINA	nan
+MT624753.1	11676	HIV-1	0	0.8918690669797711	HIV-1 isolate 16YN642 from China gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds	16YN642	01_AE	CHINA	
 KP873161.1	11676	HIV-1	0	0.8647738781212928	HIV-1 isolate Donor N094 20 Month from United Kingdom, partial genome	Donor_N094_20_Month	01_AE	UNITED KINGDOM	2010.0
 KF859741.1	11676	HIV-1	0	0.8836628078584204	HIV-1 isolate DE00111JP003 from Japan gag protein (gag) gene, complete cds; nonfunctional pol protein (pol) gene, partial sequence; vif protein (vif), vpr protein (vpr), tat protein (tat), and rev protein (rev) genes, complete cds; nonfunctional vpu protein (vpu) gene, complete sequence; and envelope glycoprotein (env) and nef protein (nef) genes, complete cds	DE00111JP003	01_AE	JAPAN	2011.0
-AB253423.1	11676	HIV-1	0	0.8948098855078654	Human immunodeficiency virus 1 proviral DNA, complete genome, clone: pJPDR0492AE04	DR0492	01_AE	JAPAN	nan
-AB253660.1	11676	HIV-1	0	0.8830979391832581	Human immunodeficiency virus 1 proviral DNA, complete genome, clone:pJPDR2594AE40	DR2594	01_AE	JAPAN	nan
-AB565504.1	11676	HIV-1	0	0.8864237101438632	Human immunodeficiency virus 1 proviral DNA, complete genome, clone: pJRC77AE31	JRC77AE	01_AE	JAPAN	nan
+AB253423.1	11676	HIV-1	0	0.8948098855078654	Human immunodeficiency virus 1 proviral DNA, complete genome, clone: pJPDR0492AE04	DR0492	01_AE	JAPAN	
+AB253660.1	11676	HIV-1	0	0.8830979391832581	Human immunodeficiency virus 1 proviral DNA, complete genome, clone:pJPDR2594AE40	DR2594	01_AE	JAPAN	
+AB565504.1	11676	HIV-1	0	0.8864237101438632	Human immunodeficiency virus 1 proviral DNA, complete genome, clone: pJRC77AE31	JRC77AE	01_AE	JAPAN	
 MG760382.1	11676	HIV-1	0	0.8724739906257069	HIV-1 isolate VI12F4094 from Laos, complete genome	VI12F4094	01_AE	LAOS	2011.0
 MG760384.1	11676	HIV-1	0	0.8367051094292237	HIV-1 isolate VI20F3001 from Laos, complete genome	VI20F3001	01_AE	LAOS	2011.0
 MG760389.1	11676	HIV-1	0	0.876173046171341	HIV-1 isolate VI22F3810 from Laos, complete genome	VI22F3810	01_AE	LAOS	2011.0
@@ -1411,10 +1411,10 @@ U54771.1	11676	HIV-1	0	0.8720712906586823	Human immunodeficiency virus type 1, s
 AF164485.1	11676	HIV-1	0	0.8660814626311055	HIV-1 isolate 93TH902.1 from Thailand, complete genome	93TH9021	01_AE	THAILAND	1993.0
 AB032740.1	11676	HIV-1	0	0.8812264796423512	Human immunodeficiency virus 1 95TNIH022 proviral DNA, complete genome	95TNIH022	01_AE	THAILAND	1995.0
 AB032741.1	11676	HIV-1	0	0.8914526209675604	Human immunodeficiency virus 1 95TNIH047 proviral DNA, complete genome	95TNIH047	01_AE	THAILAND	1995.0
-ON500878.1	11676	HIV-1	0	0.7732280149051491	HIV-1 strain F2_PID#27_W0_NS_8F9_3232_0_R475 from Thailand genomic sequence	F2_PID_27_W0_NS_8F9_3232_0_R475	01_AE	THAILAND	nan
-ON500905.1	11676	HIV-1	0	0.7753887195121952	HIV-1 strain F3_PID#28_W0_NS_2B2_4141_0_R479 from Thailand genomic sequence	F3_PID_28_W0_NS_2B2_4141_0_R479	01_AE	THAILAND	nan
-ON500912.1	11676	HIV-1	0	0.747001930894309	HIV-1 strain F3_PID#29_W0_NS_6H3_99_0_R479 from Thailand genomic sequence	F3_PID_29_W0_NS_6H3_99_0_R479	01_AE	THAILAND	nan
-AB485654.1	11676	HIV-1	0	0.8901775462413011	Human immunodeficiency virus 1 proviral DNA, complete genome, clone: pPRD320-12AE01	NP03	01_AE	THAILAND	nan
+ON500878.1	11676	HIV-1	0	0.7732280149051491	HIV-1 strain F2_PID#27_W0_NS_8F9_3232_0_R475 from Thailand genomic sequence	F2_PID_27_W0_NS_8F9_3232_0_R475	01_AE	THAILAND	
+ON500905.1	11676	HIV-1	0	0.7753887195121952	HIV-1 strain F3_PID#28_W0_NS_2B2_4141_0_R479 from Thailand genomic sequence	F3_PID_28_W0_NS_2B2_4141_0_R479	01_AE	THAILAND	
+ON500912.1	11676	HIV-1	0	0.747001930894309	HIV-1 strain F3_PID#29_W0_NS_6H3_99_0_R479 from Thailand genomic sequence	F3_PID_29_W0_NS_6H3_99_0_R479	01_AE	THAILAND	
+AB485654.1	11676	HIV-1	0	0.8901775462413011	Human immunodeficiency virus 1 proviral DNA, complete genome, clone: pPRD320-12AE01	NP03	01_AE	THAILAND	
 MT635140.1	11676	HIV-1	0	0.8740627276256683	HIV-1 isolate VN_016 from Viet Nam, complete genome	VN_016	01_AE	VIETNAM	2005.0
 MT635143.1	11676	HIV-1	0	0.8414400043525394	HIV-1 isolate VN_032 from Viet Nam, complete genome	VN_032	01_AE	VIETNAM	2008.0
 MT635158.1	11676	HIV-1	0	0.8532842286109259	HIV-1 isolate VN_236 from Viet Nam, complete genome	VN_236	01_AE	VIETNAM	2009.0
@@ -1433,12 +1433,12 @@ MT222955.1	11676	HIV-1	0	0.8799663174423791	HIV-1 isolate DE00114VN003 from Viet
 MT635175.1	11676	HIV-1	0	0.8891900070418846	HIV-1 isolate VN_643 from Viet Nam, complete genome	VN_643	01_AE	VIETNAM	2014.0
 MT222956.1	11676	HIV-1	0	0.885915681584222	HIV-1 isolate DE00115VN004 from Viet Nam, complete genome	DE00115VN004	01_AE	VIETNAM	2015.0
 MT222957.1	11676	HIV-1	0	0.886358968386561	HIV-1 isolate DE00115VN005 from Viet Nam, complete genome	DE00115VN005	01_AE	VIETNAM	2015.0
-MT635148.1	11676	HIV-1	0	0.8482780886285646	HIV-1 isolate 03-061 from Viet Nam, complete genome	03-061	01_AE	VIETNAM	nan
-MT635150.1	11676	HIV-1	0	0.8682403922717705	HIV-1 isolate 03-064 from Viet Nam, complete genome	03-064	01_AE	VIETNAM	nan
-MT635151.1	11676	HIV-1	0	0.8505550895131179	HIV-1 isolate 03-066 from Viet Nam, complete genome	03-066	01_AE	VIETNAM	nan
-MT635152.1	11676	HIV-1	0	0.8514006207704319	HIV-1 isolate 03-068 from Viet Nam, complete genome	03-068	01_AE	VIETNAM	nan
-MT635153.1	11676	HIV-1	0	0.8268296423787544	HIV-1 isolate 03-073 from Viet Nam, complete genome	03-073	01_AE	VIETNAM	nan
-MT635154.1	11676	HIV-1	0	0.8613591224499995	HIV-1 isolate 03-076 from Viet Nam, complete genome	03-076	01_AE	VIETNAM	nan
+MT635148.1	11676	HIV-1	0	0.8482780886285646	HIV-1 isolate 03-061 from Viet Nam, complete genome	03-061	01_AE	VIETNAM	
+MT635150.1	11676	HIV-1	0	0.8682403922717705	HIV-1 isolate 03-064 from Viet Nam, complete genome	03-064	01_AE	VIETNAM	
+MT635151.1	11676	HIV-1	0	0.8505550895131179	HIV-1 isolate 03-066 from Viet Nam, complete genome	03-066	01_AE	VIETNAM	
+MT635152.1	11676	HIV-1	0	0.8514006207704319	HIV-1 isolate 03-068 from Viet Nam, complete genome	03-068	01_AE	VIETNAM	
+MT635153.1	11676	HIV-1	0	0.8268296423787544	HIV-1 isolate 03-073 from Viet Nam, complete genome	03-073	01_AE	VIETNAM	
+MT635154.1	11676	HIV-1	0	0.8613591224499995	HIV-1 isolate 03-076 from Viet Nam, complete genome	03-076	01_AE	VIETNAM	
 MN485975.1	11676	HIV-1	0	0.8441758694461472	HIV-1 isolate AE from Belgium, complete genome	AE	02_AG	BELGIUM	2014.0
 MH078536.1	11676	HIV-1	0	0.8446804687411182	HIV-1 isolate DE00216CI019 from Cote d&apos;Ivoire, partial genome	DE00216CI019	02_AG	COTE D'IVOIRE	2016.0
 MH078539.1	11676	HIV-1	0	0.8688621073049889	HIV-1 isolate DEURF16CI022 from Cote d&apos;Ivoire, partial genome	DEURF16CI022	02_AG	COTE D'IVOIRE	2016.0
@@ -1451,7 +1451,7 @@ AB286855.1	11676	HIV-1	0	0.8394757989087241	Human immunodeficiency virus 1 provi
 AB286857.1	11676	HIV-1	0	0.8085453208099586	Human immunodeficiency virus 1 proviral DNA, complete genome, clone: p03GH182AG34	03GH182AG	02_AG	GHANA	2003.0
 AB231895.1	11676	HIV-1	0	0.8386020934472462	Human immunodeficiency virus 1 proviral DNA, complete genome, isolate: GHNJ185	GHNJ185	02_AG	GHANA	2003.0
 AB231896.1	11676	HIV-1	0	0.8438816239326168	Human immunodeficiency virus 1 proviral DNA, complete genome, isolate: GHNJ188	GHNJ188	02_AG	GHANA	2003.0
-AB485633.1	11676	HIV-1	0	0.8280326250256363	Human immunodeficiency virus 1 proviral DNA, complete genome, clone: pPRD320-02A31	I_2496	02_AG	GHANA	nan
+AB485633.1	11676	HIV-1	0	0.8280326250256363	Human immunodeficiency virus 1 proviral DNA, complete genome, clone: pPRD320-02A31	I_2496	02_AG	GHANA	
 FJ694791.1	11676	HIV-1	0	0.7688228506574363	HIV-1 isolate CC 0030 from Guinea-Bissau nonfunctional gag protein (gag) gene, complete sequence; pol protein (pol) gene, partial cds; vif protein (vif) and vpr protein (vpr) genes, complete cds; nonfunctional tat protein (tat) and nonfunctional rev protein (rev) genes, complete sequence; and vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds	CC_0030	02_AG	GUINEA-BISSAU	2004.0
 FJ694792.1	11676	HIV-1	0	0.8733992795368327	HIV-1 isolate CC 0048 from Guinea-Bissau nonfunctional gag protein (gag) gene, complete sequence; pol protein (pol) gene, partial cds; vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), and envelope glycoprotein (env) genes, complete cds; and nef protein (nef) gene, partial cds	CC_0048	02_AG	GUINEA-BISSAU	2005.0
 MH078544.1	11676	HIV-1	0	0.8847901330231285	HIV-1 isolate DE00214GW009 from Guinea-Bissau, partial genome	DE00214GW009	02_AG	GUINEA-BISSAU	2014.0
@@ -1462,14 +1462,14 @@ KY658712.1	11676	HIV-1	0	0.8795850531695983	HIV-1 isolate DE00215PK035 from Paki
 KX232616.1	11676	HIV-1	0	0.8510905201348111	HIV-1 isolate PK024 from Pakistan, complete genome	PK024	02_AG	PAKISTAN	2015.0
 KT223760.1	11676	HIV-1	0	0.6495138038405271	HIV-1 isolate 9580 from Senegal pol protein (pol) gene, partial cds; vif protein (vif) and vpr protein (vpr) genes, complete cds; and nonfunctional vpu protein (vpu) gene, complete sequence	9580	02_AG	SENEGAL	2013.0
 KF716488.1	11676	HIV-1	0	0.8539043480227289	HIV-1 isolate DEURF10UG006 from Uganda gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds	DEURF10UG006	02_AG	UGANDA	2010.0
-KU168267.1	11676	HIV-1	0	0.8338035560876897	HIV-1 isolate LA12FroG, complete genome	LA12FroG	02_AG	nan	2000.0
+KU168267.1	11676	HIV-1	0	0.8338035560876897	HIV-1 isolate LA12FroG, complete genome	LA12FroG	02_AG		2000.0
 JX140648.1	11676	HIV-1	0	0.874238004092472	HIV-1 isolate DE00400GR002 from Greece gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; vif protein (vif) gene, complete cds; nonfunctional vpr protein (vpr) gene, complete sequence; and tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds	DE00400GR002	04_cpx	GREECE	2000.0
 AF076998.1	11676	HIV-1	0	0.907901254773394	HIV-1 isolate VI961 from Democratic Republic of the Congo, complete genome	VI961	05_DF	BELGIUM	1993.0
-AF193253.1	11676	HIV-1	0	0.8993987244934978	HIV-1 subtype F/D isolate VI1310 from Belgium gag protein (gag), pol protein (pol), vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds	VI1310	05_DF	BELGIUM	nan
+AF193253.1	11676	HIV-1	0	0.8993987244934978	HIV-1 subtype F/D isolate VI1310 from Belgium gag protein (gag), pol protein (pol), vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds	VI1310	05_DF	BELGIUM	
 AY227107.1	11676	HIV-1	0	0.9083243053984804	HIV-1 genotype CRF05_DF isolate X492 from Spain, complete genome	X492	05_DF	SPAIN	1999.0
 AF064699.1	11676	HIV-1	0	0.8610073267574396	HIV-1 isolate BFP90 from Burkina Faso, complete genome	BFP90	06_cpx	AUSTRALIA	1996.0
-KU168269.1	11676	HIV-1	0	0.8882278009622109	HIV-1 isolate LA14AAS287 from Burkina Faso, complete genome	LA14AAS287	06_cpx	BURKINA FASO	nan
-AB485660.1	11676	HIV-1	0	0.8491461653658179	Human immunodeficiency virus 1 proviral DNA, complete genome, clone: pPRD320-15G15	BCF-Dioum	06_cpx	DEM REP OF CONGO	nan
+KU168269.1	11676	HIV-1	0	0.8882278009622109	HIV-1 isolate LA14AAS287 from Burkina Faso, complete genome	LA14AAS287	06_cpx	BURKINA FASO	
+AB485660.1	11676	HIV-1	0	0.8491461653658179	Human immunodeficiency virus 1 proviral DNA, complete genome, clone: pPRD320-15G15	BCF-Dioum	06_cpx	DEM REP OF CONGO	
 AB286851.1	11676	HIV-1	0	0.8517844038878342	Human immunodeficiency virus 1 proviral DNA, complete genome, clone: p03GH173_06_37	03GH173_06	06_cpx	GHANA	2003.0
 AJ245481.2	11676	HIV-1	0	0.8469489082280457	Human immunodeficiency virus type 1 proviral complete genome, isolate 95ML84	95ML84	06_cpx	MALI	1995.0
 AJ288981.1	11676	HIV-1	0	0.8568760261714716	Human immunodeficiency virus type 1 complete proviral genome, strain 97SE1078 (from Senegal)	97SE1078	06_cpx	SENEGAL	1997.0
@@ -1512,8 +1512,8 @@ AF492624.1	11676	HIV-1	0	0.8792901477378505	HIV-1 isolate 95CM-1816 from Cameroo
 AF492623.1	11676	HIV-1	0	0.8578918894241918	HIV-1 isolate 96CM-4496 from Cameroon, complete genome	96CM_4496	11_cpx	CAMEROON	1996.0
 AJ291718.1	11676	HIV-1	0	0.7965644818964024	Human immunodeficiency virus type 1 complete genome, Cameroon strain 97CM-MP818	MP818	11_cpx	CAMEROON	1997.0
 AJ291719.1	11676	HIV-1	0	0.880649233698007	Human immunodeficiency virus type 1 complete genome, strain 99FR-MP129	MP1298	11_cpx	FRANCE	1999.0
-AF179368.1	11676	HIV-1	0	0.8545753638484022	HIV-1 strain GR17 from Greece complete genome	GR17	11_cpx	GREECE	nan
-KU168270.1	11676	HIV-1	0	0.8489898712380909	HIV-1 isolate LA15PoCa, complete genome	LA15PoCa	11_cpx	nan	2003.0
+AF179368.1	11676	HIV-1	0	0.8545753638484022	HIV-1 strain GR17 from Greece complete genome	GR17	11_cpx	GREECE	
+KU168270.1	11676	HIV-1	0	0.8489898712380909	HIV-1 isolate LA15PoCa, complete genome	LA15PoCa	11_cpx		2003.0
 AF408629.1	11676	HIV-1	0	0.9001350596034612	HIV-1 isolate A32879 from Argentina, complete genome	A32879	12_BF	ARGENTINA	1997.0
 AF408630.1	11676	HIV-1	0	0.860599324322967	HIV-1 isolate A32989 from Argentina, complete genome	A32989	12_BF	ARGENTINA	1997.0
 AF385936.1	11676	HIV-1	0	0.8619953809590983	HIV-1 isolate ARMA159 from Argentina, complete genome	ARMA159	12_BF	ARGENTINA	1999.0
@@ -1774,7 +1774,7 @@ OK392124.1	11676	HIV-1	0	0.8675752594805674	HIV-1 isolate hcz0017 from China, co
 OP169133.1	11676	HIV-1	0	0.6992843825993216	HIV-1 isolate 233 from China, complete genome	233	01B	CHINA	2020.0
 OP169134.1	11676	HIV-1	0	0.6872149884677168	HIV-1 isolate 953 from China, complete genome	953	01B	CHINA	2020.0
 AB859012.1	11676	HIV-1	0	0.8886176266812604	Human immunodeficiency virus 1 proviral DNA, nearly complete genome, isolate: 03JP-5091K279	03JP-5091K279	01B	JAPAN	2003.0
-AB646691.1	11676	HIV-1	0	0.8897453118175725	Human immunodeficiency virus 1 proviral DNA, complete genome, clone: pHIV-1 Y271B01AE64	pHIV_1_Y271B01AE64	01B	JAPAN	nan
+AB646691.1	11676	HIV-1	0	0.8897453118175725	Human immunodeficiency virus 1 proviral DNA, complete genome, clone: pHIV-1 Y271B01AE64	pHIV_1_Y271B01AE64	01B	JAPAN	
 AB097867.1	11676	HIV-1	0	0.8873738719695687	Human immunodeficiency virus 1 proviral DNA, nearly complete genome, isolate:mCSW104	mCSW104	01B	MYANMAR	1999.0
 DQ366665.1	11676	HIV-1	0	0.912813701514082	HIV-1 isolate 04MYKL019.1 from Malaysia, complete genome	04MYKL019_1	01B	MALAYSIA	2004.0
 EF495062.1	11676	HIV-1	0	0.8819409702999905	HIV-1 isolate 06MMYKLD46 from Malaysia, complete sequence	06MMYKLD46	01B	MALAYSIA	2006.0
@@ -1823,7 +1823,7 @@ MN116205.1	11676	HIV-1	0	0.9084933035691736	HIV-1 isolate CG-0422-02V from Democ
 MN116203.1	11676	HIV-1	0	0.872216380014605	HIV-1 isolate CG-0070-01 from Democratic Republic of the Congo, complete genome	CG-0070-01	01F1G	DEM REP OF CONGO	2001.0
 MN116206.1	11676	HIV-1	0	0.8671652291111603	HIV-1 isolate CG-0427a-02V from Democratic Republic of the Congo, complete genome	CG-0427a-02V	01F1G	DEM REP OF CONGO	2002.0
 MN153476.1	11676	HIV-1	0	0.8483177312511724	HIV-1 isolate 17CMMDC6542 from Cameroon, complete genome	17CMMDC6542	01F2	CAMEROON	2017.0
-KU168268.1	11676	HIV-1	0	0.8582495185322647	HIV-1 isolate LA13BF17 from Burkina Faso, complete genome	LA13BF17	0206	BURKINA FASO	nan
+KU168268.1	11676	HIV-1	0	0.8582495185322647	HIV-1 isolate LA13BF17 from Burkina Faso, complete genome	LA13BF17	0206	BURKINA FASO	
 KU168301.1	11676	HIV-1	0	0.8262151159483277	HIV-1 isolate LA58Benin from Benin, complete genome	LA58Benin	0206	BENIN	2013.0
 AB286853.1	11676	HIV-1	0	0.8411987285477911	Human immunodeficiency virus 1 proviral DNA, complete genome, clone: p0303GH195AG/06_44	03GH195AG_06	0206	GHANA	2003.0
 AJ508597.1	11676	HIV-1	0	0.8224900325319616	Human immunodeficiency virus type 1 complete proviral genome, isolate 00NE36	NE36	0206	NIGER	2000.0
@@ -1853,7 +1853,7 @@ KR017772.1	11676	HIV-1	0	0.8764630976753751	HIV-1 isolate BS13 from Cameroon gag
 GQ372986.1	11676	HIV-1	0	0.8582598247670912	HIV-1 isolate ES P1751 from Spain, complete genome	ES_P1751	02A3	SPAIN	2007.0
 AB231894.1	11676	HIV-1	0	0.8262279549537273	Human immunodeficiency virus 1 proviral DNA, complete genome, isolate: GHNJ176	GHNJ176	02A3	GHANA	2003.0
 MN703131.1	11676	HIV-1	0	0.8676800019590591	HIV-1 isolate DEURF14GW036 from Guinea-Bissau, complete genome	DEURF14GW036	02A3	GUINEA-BISSAU	2014.0
-KU168266.1	11676	HIV-1	0	0.8353700041486667	HIV-1 isolate LA11ZaCh, complete genome	LA11ZaCh	02A3	nan	2000.0
+KU168266.1	11676	HIV-1	0	0.8353700041486667	HIV-1 isolate LA11ZaCh, complete genome	LA11ZaCh	02A3		2000.0
 MZ427760.1	11676	HIV-1	0	0.8581560061396485	HIV-1 isolate RU_ERS_3117_2017 from Russia, complete genome	RU_ERS_3117_2017	02A6B	RUSSIAN FEDERATION	2017.0
 MN485992.1	11676	HIV-1	0	0.8396731379507612	HIV-1 isolate AV from Belgium, complete genome	AV	02B	BELGIUM	2016.0
 KT276254.1	11676	HIV-1	0	0.8891989870943429	HIV-1 isolate ARP1194 from Spain gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds	ARP1194	02B	SPAIN	2013.0
@@ -1903,7 +1903,7 @@ OP039415.1	11676	HIV-1	0	0.7901517615176153	UNVERIFIED: HIV-1 isolate 2090 from 
 AF411964.1	11676	HIV-1	0	0.8903809850186873	HIV-1 isolate 99ZACM4 from South Africa, complete genome	CM4_99ZACM4	A1CDG	SOUTH AFRICA	1999.0
 EU110096.1	11676	HIV-1	0	0.8991652352123174	HIV-1 isolate ML1979PCR from Kenya, complete genome	ML1979PCR	A1CG	KENYA	2002.0
 MN486043.1	11676	HIV-1	0	0.8906031070417357	HIV-1 isolate CU from Belgium, complete genome	CU	A1D	BELGIUM	2003.0
-KU168311.1	11676	HIV-1	0	0.9010137498854052	HIV-1 isolate CMN05-5 from Cameroon, complete genome	CMN05-5	A1D	CAMEROON	nan
+KU168311.1	11676	HIV-1	0	0.9010137498854052	HIV-1 isolate CMN05-5 from Cameroon, complete genome	CMN05-5	A1D	CAMEROON	
 EU110090.1	11676	HIV-1	0	0.8964020371539322	HIV-1 isolate ML1974 from Kenya, complete genome	ML1974	A1D	KENYA	2002.0
 KF716468.1	11676	HIV-1	0	0.8992178979512033	HIV-1 isolate DEURF09KE002 from Kenya gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds	DEURF09KE002	A1D	KENYA	2009.0
 KP174771.1	11676	HIV-1	0	0.8589453131995675	HIV-1 isolate DEURF09KE004 from Kenya gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds	DEURF09KE004	A1D	KENYA	2009.0
@@ -1944,7 +1944,7 @@ KC473845.1	11676	HIV-1	0	0.8915623995844071	HIV-1 isolate DEURF09GQ001 from Spai
 AJ237565.1	11676	HIV-1	0	0.821921143165618	Human immunodeficiency virus type 1 complete genome, strain 97NOGIL3	97NOGIL3	A1DHK	NORWAY	1997.0
 X04415.1	11676	HIV-1	0	0.8696721634853211	Human lymphadenopathy virus (MAL isolate), complete genome	MAL_MALCG	A1DK	DEM REP OF CONGO	1985.0
 KY392771.1	11676	HIV-1	0	0.8615939967322653	HIV-1 isolate CG-0378-02V from Democratic Republic of the Congo, complete genome	CG-0378-02V_NGSID6	A1GH	DEM REP OF CONGO	2002.0
-AF076474.1	11676	HIV-1	0	0.8905859597723832	HIV-1 isolate VI354 from Gabon, complete genome	VI354	A1GHU	GABON	nan
+AF076474.1	11676	HIV-1	0	0.8905859597723832	HIV-1 isolate VI354 from Gabon, complete genome	VI354	A1GHU	GABON	
 KP718927.1	11676	HIV-1	0	0.8915195967550138	HIV-1 isolate 867-10 from Cameroon, complete genome	867-10	A1H	CAMEROON	2008.0
 KP718919.1	11676	HIV-1	0	0.9031987134067052	HIV-1 isolate 280-10 from Cameroon, complete genome	280-10	A1K	CAMEROON	2007.0
 AF411965.1	11676	HIV-1	0	0.8799882679470945	HIV-1 isolate 98ZADu178 from South Africa, complete genome	DU178_98ZADU178	A2C	SOUTH AFRICA	1998.0
@@ -2041,9 +2041,9 @@ GU595151.1	11676	HIV-1	0	0.9184317918974928	HIV-1 isolate 59211 from Italy, comp
 GU595153.1	11676	HIV-1	0	0.875682090062526	HIV-1 isolate 89072 from Italy, complete genome	89072	BF1	ITALY	2006.0
 AB480298.1	11676	HIV-1	0	0.8438518980831705	Human immunodeficiency virus 1 proviral DNA, complete genome, clone: p04JPDR6082F18	DR6082	BF1	JAPAN	2004.0
 AB480300.1	11676	HIV-1	0	0.8421946741367006	Human immunodeficiency virus 1 proviral DNA, complete genome, clone: p04JPDR6190F75	DR6190	BF1	JAPAN	2004.0
-AB253430.1	11676	HIV-1	0	0.8919677470851075	Human immunodeficiency virus 1 proviral DNA, complete genome, clone: pJPDR0769BF3	DR0769	BF1	JAPAN	nan
+AB253430.1	11676	HIV-1	0	0.8919677470851075	Human immunodeficiency virus 1 proviral DNA, complete genome, clone: pJPDR0769BF3	DR0769	BF1	JAPAN	
 GU207884.1	11676	HIV-1	0	0.8442827715410108	HIV-1 isolate MO108 from Macau, complete genome	MO108	BF1G	MACAU	2005.0
-AY586546.1	11676	HIV-1	0	0.843857253736152	HIV-1 isolate Cu100 from Cuba, complete genome	Cu100	BG	CUBA	nan
+AY586546.1	11676	HIV-1	0	0.843857253736152	HIV-1 isolate Cu100 from Cuba, complete genome	Cu100	BG	CUBA	
 MK095228.1	11676	HIV-1	0	0.7307092093502867	HIV-1 isolate UNASS_0037629497702682 from Spain, complete genome	UNASS_0037629497702682	BG	SPAIN	2011.0
 MF614609.1	11676	HIV-1	0	0.8517509302361272	HIV-1 isolate RU_KNCh_2014 from Russia, complete genome	RU_KNCh_2014	BG	RUSSIAN FEDERATION	2014.0
 MF614608.1	11676	HIV-1	0	0.8607703346048657	HIV-1 isolate RU_VDL_2014 from Russia, complete genome	RU_VDL_2014	BG	RUSSIAN FEDERATION	2014.0
@@ -2069,7 +2069,7 @@ HM215251.1	11676	HIV-1	0	0.8875339644714517	HIV-1 isolate TV749 from Canada, com
 HM215249.1	11676	HIV-1	0	0.856801563838494	HIV-1 isolate TV721 from Canada, complete genome	TV721	U	CANADA	1999.0
 KY392780.1	11676	HIV-1	0	0.8564620397475493	HIV-1 isolate CG-0066-01 from Democratic Republic of the Congo, complete genome	CG-0066-01_NGSID18	U	DEM REP OF CONGO	2001.0
 KY392773.1	11676	HIV-1	0	0.8975318370071008	HIV-1 isolate CG-0059-01 from Democratic Republic of the Congo, complete genome	CG-0059-01_NGSID8	U	DEM REP OF CONGO	2002.0
-AB485665.1	11676	HIV-1	0	0.8316259623944171	Human immunodeficiency virus 1 proviral DNA, complete genome, clone: pPRD320-17H13	BCF-Kita	U	DEM REP OF CONGO	nan
+AB485665.1	11676	HIV-1	0	0.8316259623944171	Human immunodeficiency virus 1 proviral DNA, complete genome, clone: pPRD320-17H13	BCF-Kita	U	DEM REP OF CONGO	
 MN153492.1	11676	HIV-1	0	0.7286503791704434	HIV-1 isolate 06CMACR076 from Cameroon, complete genome	06CMACR076	U	CAMEROON	2006.0
 KP718920.1	11676	HIV-1	0	0.8725491868978802	HIV-1 isolate 469-66 from Cameroon, complete genome	469-66	U	CAMEROON	2007.0
 MN153489.1	11676	HIV-1	0	0.7920367491209933	HIV-1 isolate 08CMARC092 from Cameroon, complete genome	08CMARC092	U	CAMEROON	2008.0
@@ -2077,3 +2077,5 @@ MK095236.1	11676	HIV-1	0	0.8338102318434222	HIV-1 isolate UNASS_8117949075453494
 MH078559.1	11676	HIV-1	0	0.8567749545129573	HIV-1 isolate DEURF11NG011 from Nigeria, partial genome	DEURF11NG011	U	NIGERIA	2011.0
 AY532635.1	11676	HIV-1	0	0.7364897568931698	HIV-1 isolate 02CM-DJO0131 from Cameroon, complete genome	DJO0131	N	CAMEROON	2002.0
 KY498771.1	11676	HIV-1	0	0.7012618834876367	HIV-1 isolate S4858 from Cameroon, complete genome	S4858	N	CAMEROON	2015.0
+U39362.2	11676	HIV-1	0	0.6101255081300813	HIV-1 isolate 89.6	P896_89_6	B	UNITED STATES	1989.0
+AF324493.2	11676	HIV-1	0	0.9511208466064858	HIV-1 vector pNL4-3	pNL4-3	B	-	1986.0

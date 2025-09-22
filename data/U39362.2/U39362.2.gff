@@ -1,0 +1,237 @@
+# gffread -F --keep-exon-attrs -o- /ccb/salz8-3/avaraby1/HIV_Atlas/HIV_Atlas_Data/data/U39362.2/U39362.2.gtf
+# gffread v0.12.7
+##gff-version 3
+U39362.2	VIRA	exon	454	742	.	+	.	Parent=Env_Vpu.1
+U39362.2	VIRA	exon	454	742	.	+	.	Parent=Env_Vpu.10
+U39362.2	VIRA	exon	454	742	.	+	.	Parent=Env_Vpu.11
+U39362.2	VIRA	exon	454	742	.	+	.	Parent=Env_Vpu.12
+U39362.2	VIRA	exon	454	742	.	+	.	Parent=Env_Vpu.13
+U39362.2	VIRA	exon	454	742	.	+	.	Parent=Env_Vpu.14
+U39362.2	VIRA	exon	454	742	.	+	.	Parent=Env_Vpu.15
+U39362.2	VIRA	exon	454	742	.	+	.	Parent=Env_Vpu.16
+U39362.2	VIRA	exon	454	742	.	+	.	Parent=Env_Vpu.2
+U39362.2	VIRA	exon	454	742	.	+	.	Parent=Env_Vpu.3
+U39362.2	VIRA	exon	454	742	.	+	.	Parent=Env_Vpu.5
+U39362.2	VIRA	exon	454	742	.	+	.	Parent=Env_Vpu.6
+U39362.2	VIRA	exon	454	742	.	+	.	Parent=Env_Vpu.7
+U39362.2	VIRA	exon	454	742	.	+	.	Parent=Env_Vpu.8
+U39362.2	VIRA	exon	454	742	.	+	.	Parent=Env_Vpu.9
+U39362.2	VIRA	exon	454	742	.	+	.	Parent=Nef.1
+U39362.2	VIRA	exon	454	742	.	+	.	Parent=Nef.3
+U39362.2	VIRA	exon	454	742	.	+	.	Parent=Nef.4
+U39362.2	VIRA	exon	454	742	.	+	.	Parent=Nef.5
+U39362.2	VIRA	exon	454	742	.	+	.	Parent=Rev.1
+U39362.2	VIRA	exon	454	742	.	+	.	Parent=Rev.10
+U39362.2	VIRA	exon	454	742	.	+	.	Parent=Rev.11
+U39362.2	VIRA	exon	454	742	.	+	.	Parent=Rev.12
+U39362.2	VIRA	exon	454	742	.	+	.	Parent=Rev.2
+U39362.2	VIRA	exon	454	742	.	+	.	Parent=Rev.4
+U39362.2	VIRA	exon	454	742	.	+	.	Parent=Rev.5
+U39362.2	VIRA	exon	454	742	.	+	.	Parent=Rev.6
+U39362.2	VIRA	exon	454	742	.	+	.	Parent=Rev.7
+U39362.2	VIRA	exon	454	742	.	+	.	Parent=Rev.8
+U39362.2	VIRA	exon	454	742	.	+	.	Parent=Rev.9
+U39362.2	VIRA	exon	454	742	.	+	.	Parent=Tat.1
+U39362.2	VIRA	exon	454	742	.	+	.	Parent=Tat.2
+U39362.2	VIRA	exon	454	742	.	+	.	Parent=Tat.3
+U39362.2	VIRA	exon	454	742	.	+	.	Parent=Tat.4
+U39362.2	VIRA	exon	454	742	.	+	.	Parent=Vif.2
+U39362.2	VIRA	exon	454	742	.	+	.	Parent=Vpr.1
+U39362.2	VIRA	exon	454	742	.	+	.	Parent=Vpr.2
+U39362.2	VIRA	exon	454	742	.	+	.	Parent=Vpr.3
+U39362.2	VIRA	exon	454	742	.	+	.	Parent=Vpr.4
+U39362.2	VIRA	exon	454	9626	.	+	.	Parent=GagPol.1
+U39362.2	VIRA	exon	454	9626	.	+	.	Parent=GagPol.2
+U39362.2	VIRA	transcript	454	9626	.	+	.	ID=Env_Vpu.10;geneID=Env_Vpu;aln_start=453;cds_source=miniprot;cigar=289M4646N74M496N279M4I5M7I5M2D6M3D48M3D312M9D39M3I110M6D11M2I2M1I347M5I1M1D4M2I36M3D94M1D2M4I120M3I3M1I2M8I182M3D1216M1D3M1I39M7D1M2D70M6I305M2I2M1I7M3I143M5D228M;identity_miniprot=0.8262;vira_tx_aln_score=1.0
+U39362.2	VIRA	transcript	454	9626	.	+	.	ID=Env_Vpu.11;geneID=Env_Vpu;aln_start=453;cds_source=miniprot;cigar=289M4646N74M490N285M4I5M7I5M2D6M3D48M3D312M9D39M3I110M6D11M2I2M1I347M5I1M1D4M2I36M3D94M1D2M4I120M3I3M1I2M8I182M3D1216M1D3M1I39M7D1M2D70M6I305M2I2M1I7M3I143M5D228M;identity_miniprot=0.8262;vira_tx_aln_score=1.0
+U39362.2	VIRA	transcript	454	9626	.	+	.	ID=Env_Vpu.12;geneID=Env_Vpu;aln_start=453;cds_source=miniprot;cigar=289M4646N74M472N303M4I5M7I5M2D6M3D48M3D312M9D39M3I110M6D11M2I2M1I347M5I1M1D4M2I36M3D94M1D2M4I120M3I3M1I2M8I182M3D1216M1D3M1I39M7D1M2D70M6I305M2I2M1I7M3I143M5D228M;identity_miniprot=0.8262;vira_tx_aln_score=1.0
+U39362.2	VIRA	transcript	454	9626	.	+	.	ID=Env_Vpu.13;geneID=Env_Vpu;aln_start=453;cds_source=miniprot;cigar=289M4169N50M427N74M512N263M4I5M7I5M2D6M3D48M3D312M9D39M3I110M6D11M2I2M1I347M5I1M1D4M2I36M3D94M1D2M4I120M3I3M1I2M8I182M3D1216M1D3M1I39M7D1M2D70M6I305M2I2M1I7M3I143M5D228M;identity_miniprot=0.8262;vira_tx_aln_score=1.0
+U39362.2	VIRA	transcript	454	9626	.	+	.	ID=Env_Vpu.14;geneID=Env_Vpu;aln_start=453;cds_source=miniprot;cigar=289M4169N50M427N74M496N279M4I5M7I5M2D6M3D48M3D312M9D39M3I110M6D11M2I2M1I347M5I1M1D4M2I36M3D94M1D2M4I120M3I3M1I2M8I182M3D1216M1D3M1I39M7D1M2D70M6I305M2I2M1I7M3I143M5D228M;identity_miniprot=0.8262;vira_tx_aln_score=1.0
+U39362.2	VIRA	transcript	454	9626	.	+	.	ID=Env_Vpu.15;geneID=Env_Vpu;aln_start=453;cds_source=miniprot;cigar=289M4169N50M427N74M490N285M4I5M7I5M2D6M3D48M3D312M9D39M3I110M6D11M2I2M1I347M5I1M1D4M2I36M3D94M1D2M4I120M3I3M1I2M8I182M3D1216M1D3M1I39M7D1M2D70M6I305M2I2M1I7M3I143M5D228M;identity_miniprot=0.8262;vira_tx_aln_score=1.0
+U39362.2	VIRA	transcript	454	9626	.	+	.	ID=Env_Vpu.16;geneID=Env_Vpu;aln_start=453;cds_source=miniprot;cigar=289M4169N50M427N74M472N303M4I5M7I5M2D6M3D48M3D312M9D39M3I110M6D11M2I2M1I347M5I1M1D4M2I36M3D94M1D2M4I120M3I3M1I2M8I182M3D1216M1D3M1I39M7D1M2D70M6I305M2I2M1I7M3I143M5D228M;identity_miniprot=0.8262;vira_tx_aln_score=1.0
+U39362.2	VIRA	transcript	454	9626	.	+	.	ID=Env_Vpu.1;geneID=Env_Vpu;aln_start=453;cds_source=miniprot;cigar=289M5232N263M4I5M7I5M2D6M3D48M3D312M9D39M3I110M6D11M2I2M1I347M5I1M1D4M2I36M3D94M1D2M4I120M3I3M1I2M8I182M3D1216M1D3M1I39M7D1M2D70M6I305M2I2M1I7M3I143M5D228M;identity_miniprot=0.7317;vira_tx_aln_score=1.0
+U39362.2	VIRA	transcript	454	9626	.	+	.	ID=Env_Vpu.2;geneID=Env_Vpu;aln_start=453;cds_source=miniprot;cigar=289M5216N279M4I5M7I5M2D6M3D48M3D312M9D39M3I110M6D11M2I2M1I347M5I1M1D4M2I36M3D94M1D2M4I120M3I3M1I2M8I182M3D1216M1D3M1I39M7D1M2D70M6I305M2I2M1I7M3I143M5D228M;identity_miniprot=0.8262;vira_tx_aln_score=1.0
+U39362.2	VIRA	transcript	454	9626	.	+	.	ID=Env_Vpu.3;geneID=Env_Vpu;aln_start=453;cds_source=miniprot;cigar=289M5210N285M4I5M7I5M2D6M3D48M3D312M9D39M3I110M6D11M2I2M1I347M5I1M1D4M2I36M3D94M1D2M4I120M3I3M1I2M8I182M3D1216M1D3M1I39M7D1M2D70M6I305M2I2M1I7M3I143M5D228M;identity_miniprot=0.8262;vira_tx_aln_score=1.0
+U39362.2	VIRA	transcript	454	9626	.	+	.	ID=Env_Vpu.5;geneID=Env_Vpu;aln_start=453;cds_source=miniprot;cigar=289M4169N50M1013N263M4I5M7I5M2D6M3D48M3D312M9D39M3I110M6D11M2I2M1I347M5I1M1D4M2I36M3D94M1D2M4I120M3I3M1I2M8I182M3D1216M1D3M1I39M7D1M2D70M6I305M2I2M1I7M3I143M5D228M;identity_miniprot=0.8262;vira_tx_aln_score=1.0
+U39362.2	VIRA	transcript	454	9626	.	+	.	ID=Env_Vpu.6;geneID=Env_Vpu;aln_start=453;cds_source=miniprot;cigar=289M4169N50M997N279M4I5M7I5M2D6M3D48M3D312M9D39M3I110M6D11M2I2M1I347M5I1M1D4M2I36M3D94M1D2M4I120M3I3M1I2M8I182M3D1216M1D3M1I39M7D1M2D70M6I305M2I2M1I7M3I143M5D228M;identity_miniprot=0.8262;vira_tx_aln_score=1.0
+U39362.2	VIRA	transcript	454	9626	.	+	.	ID=Env_Vpu.7;geneID=Env_Vpu;aln_start=453;cds_source=miniprot;cigar=289M4169N50M991N285M4I5M7I5M2D6M3D48M3D312M9D39M3I110M6D11M2I2M1I347M5I1M1D4M2I36M3D94M1D2M4I120M3I3M1I2M8I182M3D1216M1D3M1I39M7D1M2D70M6I305M2I2M1I7M3I143M5D228M;identity_miniprot=0.8262;vira_tx_aln_score=1.0
+U39362.2	VIRA	transcript	454	9626	.	+	.	ID=Env_Vpu.8;geneID=Env_Vpu;aln_start=453;cds_source=miniprot;cigar=289M5192N303M4I5M7I5M2D6M3D48M3D312M9D39M3I110M6D11M2I2M1I347M5I1M1D4M2I36M3D94M1D2M4I120M3I3M1I2M8I182M3D1216M1D3M1I39M7D1M2D70M6I305M2I2M1I7M3I143M5D228M;identity_miniprot=0.8262;vira_tx_aln_score=1.0
+U39362.2	VIRA	transcript	454	9626	.	+	.	ID=Env_Vpu.9;geneID=Env_Vpu;aln_start=453;cds_source=miniprot;cigar=289M4646N74M512N263M4I5M7I5M2D6M3D48M3D312M9D39M3I110M6D11M2I2M1I347M5I1M1D4M2I36M3D94M1D2M4I120M3I3M1I2M8I182M3D1216M1D3M1I39M7D1M2D70M6I305M2I2M1I7M3I143M5D228M;identity_miniprot=0.8262;vira_tx_aln_score=1.0
+U39362.2	VIRA	transcript	454	9626	.	+	.	ID=GagPol.1;geneID=GagPol;aln_start=453;cds_source=miniprot;cigar=5316M1I468M4I5M7I5M2D6M3D48M3D312M9D39M3I110M6D11M2I2M1I347M5I1M1D4M2I36M3D94M1D2M4I120M3I3M1I2M8I182M3D1216M1D3M1I39M7D1M2D70M6I305M2I2M1I7M3I143M5D228M;identity_miniprot=0.9600;vira_tx_aln_score=1.0
+U39362.2	VIRA	transcript	454	9626	.	+	.	ID=GagPol.2;geneID=GagPol;aln_start=453;cds_source=miniprot;cigar=5316M1I468M4I5M7I5M2D6M3D48M3D312M9D39M3I110M6D11M2I2M1I347M5I1M1D4M2I36M3D94M1D2M4I120M3I3M1I2M8I182M3D1216M1D3M1I39M7D1M2D70M6I305M2I2M1I7M3I143M5D228M;identity_miniprot=0.9649;vira_tx_aln_score=1.0
+U39362.2	VIRA	transcript	454	9626	.	+	.	ID=Nef.1;geneID=Nef;aln_start=453;cds_source=miniprot;cigar=289M7625N446M1D3M1I39M7D1M2D70M6I305M2I2M1I7M3I143M5D228M;identity_miniprot=0.8095;vira_tx_aln_score=1.0
+U39362.2	VIRA	transcript	454	9626	.	+	.	ID=Nef.3;geneID=Nef;aln_start=453;cds_source=miniprot;cigar=289M4169N50M1013N69M2324N446M1D3M1I39M7D1M2D70M6I305M2I2M1I7M3I143M5D228M;identity_miniprot=0.8095;vira_tx_aln_score=1.0
+U39362.2	VIRA	transcript	454	9626	.	+	.	ID=Nef.4;geneID=Nef;aln_start=453;cds_source=miniprot;cigar=289M4646N74M512N69M2324N446M1D3M1I39M7D1M2D70M6I305M2I2M1I7M3I143M5D228M;identity_miniprot=0.8095;vira_tx_aln_score=1.0
+U39362.2	VIRA	transcript	454	9626	.	+	.	ID=Nef.5;geneID=Nef;aln_start=453;cds_source=miniprot;cigar=289M4169N50M427N74M512N69M2324N446M1D3M1I39M7D1M2D70M6I305M2I2M1I7M3I143M5D228M;identity_miniprot=0.8095;vira_tx_aln_score=1.0
+U39362.2	VIRA	transcript	454	9626	.	+	.	ID=Rev.10;geneID=Rev;aln_start=453;cds_source=miniprot;cigar=289M4169N50M427N74M496N85M2324N446M1D3M1I39M7D1M2D70M6I305M2I2M1I7M3I143M5D228M;identity_miniprot=0.8707;vira_tx_aln_score=1.0
+U39362.2	VIRA	transcript	454	9626	.	+	.	ID=Rev.11;geneID=Rev;aln_start=453;cds_source=miniprot;cigar=289M4169N50M427N74M490N91M2324N446M1D3M1I39M7D1M2D70M6I305M2I2M1I7M3I143M5D228M;identity_miniprot=0.8707;vira_tx_aln_score=1.0
+U39362.2	VIRA	transcript	454	9626	.	+	.	ID=Rev.12;geneID=Rev;aln_start=453;cds_source=miniprot;cigar=289M4169N50M427N74M472N109M2324N446M1D3M1I39M7D1M2D70M6I305M2I2M1I7M3I143M5D228M;identity_miniprot=0.8707;vira_tx_aln_score=1.0
+U39362.2	VIRA	transcript	454	9626	.	+	.	ID=Rev.1;geneID=Rev;aln_start=453;cds_source=miniprot;cigar=289M5216N85M2324N446M1D3M1I39M7D1M2D70M6I305M2I2M1I7M3I143M5D228M;identity_miniprot=0.8707;vira_tx_aln_score=1.0
+U39362.2	VIRA	transcript	454	9626	.	+	.	ID=Rev.2;geneID=Rev;aln_start=453;cds_source=miniprot;cigar=289M5210N91M2324N446M1D3M1I39M7D1M2D70M6I305M2I2M1I7M3I143M5D228M;identity_miniprot=0.8707;vira_tx_aln_score=1.0
+U39362.2	VIRA	transcript	454	9626	.	+	.	ID=Rev.4;geneID=Rev;aln_start=453;cds_source=miniprot;cigar=289M4169N50M997N85M2324N446M1D3M1I39M7D1M2D70M6I305M2I2M1I7M3I143M5D228M;identity_miniprot=0.8707;vira_tx_aln_score=1.0
+U39362.2	VIRA	transcript	454	9626	.	+	.	ID=Rev.5;geneID=Rev;aln_start=453;cds_source=miniprot;cigar=289M4169N50M991N91M2324N446M1D3M1I39M7D1M2D70M6I305M2I2M1I7M3I143M5D228M;identity_miniprot=0.8707;vira_tx_aln_score=1.0
+U39362.2	VIRA	transcript	454	9626	.	+	.	ID=Rev.6;geneID=Rev;aln_start=453;cds_source=miniprot;cigar=289M4169N50M973N109M2324N446M1D3M1I39M7D1M2D70M6I305M2I2M1I7M3I143M5D228M;identity_miniprot=0.8707;vira_tx_aln_score=1.0
+U39362.2	VIRA	transcript	454	9626	.	+	.	ID=Rev.7;geneID=Rev;aln_start=453;cds_source=miniprot;cigar=289M4646N74M496N85M2324N446M1D3M1I39M7D1M2D70M6I305M2I2M1I7M3I143M5D228M;identity_miniprot=0.8707;vira_tx_aln_score=1.0
+U39362.2	VIRA	transcript	454	9626	.	+	.	ID=Rev.8;geneID=Rev;aln_start=453;cds_source=miniprot;cigar=289M4646N74M490N91M2324N446M1D3M1I39M7D1M2D70M6I305M2I2M1I7M3I143M5D228M;identity_miniprot=0.8707;vira_tx_aln_score=1.0
+U39362.2	VIRA	transcript	454	9626	.	+	.	ID=Rev.9;geneID=Rev;aln_start=453;cds_source=miniprot;cigar=289M4646N74M472N109M2324N446M1D3M1I39M7D1M2D70M6I305M2I2M1I7M3I143M5D228M;identity_miniprot=0.8707;vira_tx_aln_score=1.0
+U39362.2	VIRA	transcript	454	9626	.	+	.	ID=Tat.1;geneID=Tat;aln_start=453;cds_source=miniprot;cigar=289M5033N268M2324N446M1D3M1I39M7D1M2D70M6I305M12I1M6I11M10D2M2D126M5D228M;identity_miniprot=0.8953;vira_tx_aln_score=1.0
+U39362.2	VIRA	transcript	454	9626	.	+	.	ID=Tat.2;geneID=Tat;aln_start=453;cds_source=miniprot;cigar=289M4169N50M814N268M2324N446M1D3M1I39M7D1M2D70M6I305M2I2M1I7M3I143M5D228M;identity_miniprot=0.8953;vira_tx_aln_score=1.0
+U39362.2	VIRA	transcript	454	9626	.	+	.	ID=Tat.3;geneID=Tat;aln_start=453;cds_source=miniprot;cigar=289M4646N74M313N268M2324N446M1D3M1I39M7D1M2D70M6I305M2I2M1I7M3I143M5D228M;identity_miniprot=0.8953;vira_tx_aln_score=1.0
+U39362.2	VIRA	transcript	454	9626	.	+	.	ID=Tat.4;geneID=Tat;aln_start=453;cds_source=miniprot;cigar=289M4169N50M427N74M313N268M2324N446M1D3M1I39M7D1M2D70M6I305M2I2M1I7M3I143M5D228M;identity_miniprot=0.8953;vira_tx_aln_score=1.0
+U39362.2	VIRA	transcript	454	9626	.	+	.	ID=Vif.2;geneID=Vif;aln_start=453;cds_source=miniprot;cigar=289M4169N858M1I468M4I5M7I5M2D6M3D48M3D312M9D39M3I110M6D11M2I2M1I347M5I1M1D4M2I36M3D94M1D2M4I120M3I3M1I2M8I182M3D1216M1D3M1I39M7D1M2D70M6I305M2I2M1I7M3I143M5D228M;identity_miniprot=0.9115;vira_tx_aln_score=1.0
+U39362.2	VIRA	transcript	454	9626	.	+	.	ID=Vpr.1;geneID=Vpr;aln_start=453;cds_source=none;cigar=289M4646N381M1I274M2324N446M1D3M1I39M7D1M2D70M6I305M2I2M1I7M3I143M5D228M;vira_tx_aln_score=1.0
+U39362.2	VIRA	transcript	454	9626	.	+	.	ID=Vpr.2;geneID=Vpr;aln_start=453;cds_source=none;cigar=289M4169N50M427N381M1I274M2324N446M1D3M1I39M7D1M2D70M6I305M2I2M1I7M3I143M5D228M;vira_tx_aln_score=1.0
+U39362.2	VIRA	transcript	454	9626	.	+	.	ID=Vpr.3;geneID=Vpr;aln_start=453;cds_source=none;cigar=289M4646N381M1I468M4I5M7I5M2D6M3D48M3D312M9D39M3I110M6D11M2I2M1I347M5I1M1D4M2I36M3D94M1D2M4I120M3I3M1I2M8I182M3D1216M1D3M1I39M7D1M2D70M6I305M2I2M1I7M3I143M5D228M;vira_tx_aln_score=1.0
+U39362.2	VIRA	transcript	454	9626	.	+	.	ID=Vpr.4;geneID=Vpr;aln_start=453;cds_source=none;cigar=289M4169N50M427N381M1I468M4I5M7I5M2D6M3D48M3D312M9D39M3I110M6D11M2I2M1I347M5I1M1D4M2I36M3D94M1D2M4I120M3I3M1I2M8I182M3D1216M1D3M1I39M7D1M2D70M6I305M2I2M1I7M3I143M5D228M;vira_tx_aln_score=1.0
+U39362.2	VIRA	CDS	789	2291	.	+	0	Parent=GagPol.1;Identity=0.9600;Rank=1;Target="GagPol.1 1 500"
+U39362.2	VIRA	CDS	2357	5095	.	+	0	Parent=GagPol.2;Identity=0.9649;Rank=1;Target="GagPol.2 1 912"
+U39362.2	VIRA	exon	4912	4961	.	+	.	Parent=Env_Vpu.13
+U39362.2	VIRA	exon	4912	4961	.	+	.	Parent=Env_Vpu.14
+U39362.2	VIRA	exon	4912	4961	.	+	.	Parent=Env_Vpu.15
+U39362.2	VIRA	exon	4912	4961	.	+	.	Parent=Env_Vpu.16
+U39362.2	VIRA	exon	4912	4961	.	+	.	Parent=Env_Vpu.5
+U39362.2	VIRA	exon	4912	4961	.	+	.	Parent=Env_Vpu.6
+U39362.2	VIRA	exon	4912	4961	.	+	.	Parent=Env_Vpu.7
+U39362.2	VIRA	exon	4912	4961	.	+	.	Parent=Nef.3
+U39362.2	VIRA	exon	4912	4961	.	+	.	Parent=Nef.5
+U39362.2	VIRA	exon	4912	4961	.	+	.	Parent=Rev.10
+U39362.2	VIRA	exon	4912	4961	.	+	.	Parent=Rev.11
+U39362.2	VIRA	exon	4912	4961	.	+	.	Parent=Rev.12
+U39362.2	VIRA	exon	4912	4961	.	+	.	Parent=Rev.4
+U39362.2	VIRA	exon	4912	4961	.	+	.	Parent=Rev.5
+U39362.2	VIRA	exon	4912	4961	.	+	.	Parent=Rev.6
+U39362.2	VIRA	exon	4912	4961	.	+	.	Parent=Tat.2
+U39362.2	VIRA	exon	4912	4961	.	+	.	Parent=Tat.4
+U39362.2	VIRA	exon	4912	4961	.	+	.	Parent=Vpr.2
+U39362.2	VIRA	exon	4912	4961	.	+	.	Parent=Vpr.4
+U39362.2	VIRA	exon	4912	9626	.	+	.	Parent=Vif.2
+U39362.2	VIRA	CDS	5040	5618	.	+	0	Parent=Vif.2;Identity=0.9115;Rank=1;Target="Vif.2 1 192"
+U39362.2	VIRA	exon	5389	5462	.	+	.	Parent=Env_Vpu.10
+U39362.2	VIRA	exon	5389	5462	.	+	.	Parent=Env_Vpu.11
+U39362.2	VIRA	exon	5389	5462	.	+	.	Parent=Env_Vpu.12
+U39362.2	VIRA	exon	5389	5462	.	+	.	Parent=Env_Vpu.13
+U39362.2	VIRA	exon	5389	5462	.	+	.	Parent=Env_Vpu.14
+U39362.2	VIRA	exon	5389	5462	.	+	.	Parent=Env_Vpu.15
+U39362.2	VIRA	exon	5389	5462	.	+	.	Parent=Env_Vpu.16
+U39362.2	VIRA	exon	5389	5462	.	+	.	Parent=Env_Vpu.9
+U39362.2	VIRA	exon	5389	5462	.	+	.	Parent=Nef.4
+U39362.2	VIRA	exon	5389	5462	.	+	.	Parent=Nef.5
+U39362.2	VIRA	exon	5389	5462	.	+	.	Parent=Rev.10
+U39362.2	VIRA	exon	5389	5462	.	+	.	Parent=Rev.11
+U39362.2	VIRA	exon	5389	5462	.	+	.	Parent=Rev.12
+U39362.2	VIRA	exon	5389	5462	.	+	.	Parent=Rev.7
+U39362.2	VIRA	exon	5389	5462	.	+	.	Parent=Rev.8
+U39362.2	VIRA	exon	5389	5462	.	+	.	Parent=Rev.9
+U39362.2	VIRA	exon	5389	5462	.	+	.	Parent=Tat.3
+U39362.2	VIRA	exon	5389	5462	.	+	.	Parent=Tat.4
+U39362.2	VIRA	exon	5389	6043	.	+	.	Parent=Vpr.1
+U39362.2	VIRA	exon	5389	6043	.	+	.	Parent=Vpr.2
+U39362.2	VIRA	exon	5389	9626	.	+	.	Parent=Vpr.3
+U39362.2	VIRA	exon	5389	9626	.	+	.	Parent=Vpr.4
+U39362.2	VIRA	CDS	5558	5848	.	+	0	Parent=Vpr.1;note="manual entry, coordinates taken from the genbank protein annotation for Vpr, miniprot erroneous 3bp splice-junction"
+U39362.2	VIRA	CDS	5558	5848	.	+	0	Parent=Vpr.2;note="manual entry, coordinates taken from the genbank protein annotation for Vpr, miniprot erroneous 3bp splice-junction"
+U39362.2	VIRA	CDS	5558	5848	.	+	0	Parent=Vpr.3;note="manual entry, coordinates taken from the genbank protein annotation for Vpr, miniprot erroneous 3bp splice-junction"
+U39362.2	VIRA	CDS	5558	5848	.	+	0	Parent=Vpr.4;note="manual entry, coordinates taken from the genbank protein annotation for Vpr, miniprot erroneous 3bp splice-junction"
+U39362.2	VIRA	exon	5776	6043	.	+	.	Parent=Tat.1
+U39362.2	VIRA	exon	5776	6043	.	+	.	Parent=Tat.2
+U39362.2	VIRA	exon	5776	6043	.	+	.	Parent=Tat.3
+U39362.2	VIRA	exon	5776	6043	.	+	.	Parent=Tat.4
+U39362.2	VIRA	CDS	5829	6043	.	+	0	Parent=Tat.1;Identity=0.8889;Rank=1;Target="Tat.1 1 71"
+U39362.2	VIRA	CDS	5829	6043	.	+	0	Parent=Tat.2;Identity=0.8889;Rank=1;Target="Tat.1 1 71"
+U39362.2	VIRA	CDS	5829	6043	.	+	0	Parent=Tat.3;Identity=0.8889;Rank=1;Target="Tat.1 1 71"
+U39362.2	VIRA	CDS	5829	6043	.	+	0	Parent=Tat.4;Identity=0.8889;Rank=1;Target="Tat.1 1 71"
+U39362.2	VIRA	exon	5935	6043	.	+	.	Parent=Rev.12
+U39362.2	VIRA	exon	5935	6043	.	+	.	Parent=Rev.6
+U39362.2	VIRA	exon	5935	6043	.	+	.	Parent=Rev.9
+U39362.2	VIRA	exon	5935	9626	.	+	.	Parent=Env_Vpu.12
+U39362.2	VIRA	exon	5935	9626	.	+	.	Parent=Env_Vpu.16
+U39362.2	VIRA	exon	5935	9626	.	+	.	Parent=Env_Vpu.8
+U39362.2	VIRA	exon	5953	6043	.	+	.	Parent=Rev.11
+U39362.2	VIRA	exon	5953	6043	.	+	.	Parent=Rev.2
+U39362.2	VIRA	exon	5953	6043	.	+	.	Parent=Rev.5
+U39362.2	VIRA	exon	5953	6043	.	+	.	Parent=Rev.8
+U39362.2	VIRA	exon	5953	9626	.	+	.	Parent=Env_Vpu.11
+U39362.2	VIRA	exon	5953	9626	.	+	.	Parent=Env_Vpu.15
+U39362.2	VIRA	exon	5953	9626	.	+	.	Parent=Env_Vpu.3
+U39362.2	VIRA	exon	5953	9626	.	+	.	Parent=Env_Vpu.7
+U39362.2	VIRA	exon	5959	6043	.	+	.	Parent=Rev.1
+U39362.2	VIRA	exon	5959	6043	.	+	.	Parent=Rev.10
+U39362.2	VIRA	exon	5959	6043	.	+	.	Parent=Rev.4
+U39362.2	VIRA	exon	5959	6043	.	+	.	Parent=Rev.7
+U39362.2	VIRA	exon	5959	9626	.	+	.	Parent=Env_Vpu.10
+U39362.2	VIRA	exon	5959	9626	.	+	.	Parent=Env_Vpu.14
+U39362.2	VIRA	exon	5959	9626	.	+	.	Parent=Env_Vpu.2
+U39362.2	VIRA	exon	5959	9626	.	+	.	Parent=Env_Vpu.6
+U39362.2	VIRA	CDS	5968	6043	.	+	0	Parent=Rev.10;Identity=0.8462;Rank=1;Target="Rev.1 1 25"
+U39362.2	VIRA	CDS	5968	6043	.	+	0	Parent=Rev.11;Identity=0.8462;Rank=1;Target="Rev.1 1 25"
+U39362.2	VIRA	CDS	5968	6043	.	+	0	Parent=Rev.12;Identity=0.8462;Rank=1;Target="Rev.1 1 25"
+U39362.2	VIRA	CDS	5968	6043	.	+	0	Parent=Rev.1;Identity=0.8462;Rank=1;Target="Rev.1 1 25"
+U39362.2	VIRA	CDS	5968	6043	.	+	0	Parent=Rev.2;Identity=0.8462;Rank=1;Target="Rev.1 1 25"
+U39362.2	VIRA	CDS	5968	6043	.	+	0	Parent=Rev.4;Identity=0.8462;Rank=1;Target="Rev.1 1 25"
+U39362.2	VIRA	CDS	5968	6043	.	+	0	Parent=Rev.5;Identity=0.8462;Rank=1;Target="Rev.1 1 25"
+U39362.2	VIRA	CDS	5968	6043	.	+	0	Parent=Rev.6;Identity=0.8462;Rank=1;Target="Rev.1 1 25"
+U39362.2	VIRA	CDS	5968	6043	.	+	0	Parent=Rev.7;Identity=0.8462;Rank=1;Target="Rev.1 1 25"
+U39362.2	VIRA	CDS	5968	6043	.	+	0	Parent=Rev.8;Identity=0.8462;Rank=1;Target="Rev.1 1 25"
+U39362.2	VIRA	CDS	5968	6043	.	+	0	Parent=Rev.9;Identity=0.8462;Rank=1;Target="Rev.1 1 25"
+U39362.2	VIRA	exon	5975	6043	.	+	.	Parent=Nef.3
+U39362.2	VIRA	exon	5975	6043	.	+	.	Parent=Nef.4
+U39362.2	VIRA	exon	5975	6043	.	+	.	Parent=Nef.5
+U39362.2	VIRA	exon	5975	9626	.	+	.	Parent=Env_Vpu.1
+U39362.2	VIRA	exon	5975	9626	.	+	.	Parent=Env_Vpu.13
+U39362.2	VIRA	exon	5975	9626	.	+	.	Parent=Env_Vpu.5
+U39362.2	VIRA	exon	5975	9626	.	+	.	Parent=Env_Vpu.9
+U39362.2	VIRA	CDS	6060	6302	.	+	0	Parent=Env_Vpu.1;Identity=0.7317;Rank=1;Target="Env_Vpu.1 1 82"
+U39362.2	VIRA	CDS	6223	8784	.	+	0	Parent=Env_Vpu.10;Identity=0.8262;Rank=1;Target="Env_Vpu.10 1 856"
+U39362.2	VIRA	CDS	6223	8784	.	+	0	Parent=Env_Vpu.11;Identity=0.8262;Rank=1;Target="Env_Vpu.10 1 856"
+U39362.2	VIRA	CDS	6223	8784	.	+	0	Parent=Env_Vpu.12;Identity=0.8262;Rank=1;Target="Env_Vpu.10 1 856"
+U39362.2	VIRA	CDS	6223	8784	.	+	0	Parent=Env_Vpu.13;Identity=0.8262;Rank=1;Target="Env_Vpu.10 1 856"
+U39362.2	VIRA	CDS	6223	8784	.	+	0	Parent=Env_Vpu.14;Identity=0.8262;Rank=1;Target="Env_Vpu.10 1 856"
+U39362.2	VIRA	CDS	6223	8784	.	+	0	Parent=Env_Vpu.15;Identity=0.8262;Rank=1;Target="Env_Vpu.10 1 856"
+U39362.2	VIRA	CDS	6223	8784	.	+	0	Parent=Env_Vpu.16;Identity=0.8262;Rank=1;Target="Env_Vpu.10 1 856"
+U39362.2	VIRA	CDS	6223	8784	.	+	0	Parent=Env_Vpu.2;Identity=0.8262;Rank=1;Target="Env_Vpu.10 1 856"
+U39362.2	VIRA	CDS	6223	8784	.	+	0	Parent=Env_Vpu.3;Identity=0.8262;Rank=1;Target="Env_Vpu.10 1 856"
+U39362.2	VIRA	CDS	6223	8784	.	+	0	Parent=Env_Vpu.5;Identity=0.8262;Rank=1;Target="Env_Vpu.10 1 856"
+U39362.2	VIRA	CDS	6223	8784	.	+	0	Parent=Env_Vpu.6;Identity=0.8262;Rank=1;Target="Env_Vpu.10 1 856"
+U39362.2	VIRA	CDS	6223	8784	.	+	0	Parent=Env_Vpu.7;Identity=0.8262;Rank=1;Target="Env_Vpu.10 1 856"
+U39362.2	VIRA	CDS	6223	8784	.	+	0	Parent=Env_Vpu.8;Identity=0.8262;Rank=1;Target="Env_Vpu.10 1 856"
+U39362.2	VIRA	CDS	6223	8784	.	+	0	Parent=Env_Vpu.9;Identity=0.8262;Rank=1;Target="Env_Vpu.10 1 856"
+U39362.2	VIRA	CDS	8368	8458	.	+	1	Parent=Tat.1;note="manual entry, end coordintate extended past miniprot end-site to the nearest downstream stop codon which matches genbank"
+U39362.2	VIRA	CDS	8368	8458	.	+	1	Parent=Tat.2;note="manual entry, end coordintate extended past miniprot end-site to the nearest downstream stop codon which matches genbank"
+U39362.2	VIRA	CDS	8368	8458	.	+	1	Parent=Tat.3;note="manual entry, end coordintate extended past miniprot end-site to the nearest downstream stop codon which matches genbank"
+U39362.2	VIRA	CDS	8368	8458	.	+	1	Parent=Tat.4;note="manual entry, end coordintate extended past miniprot end-site to the nearest downstream stop codon which matches genbank"
+U39362.2	VIRA	CDS	8368	8642	.	+	2	Parent=Rev.10;Identity=0.8778;Rank=1;Target="Rev.1 26 116"
+U39362.2	VIRA	CDS	8368	8642	.	+	2	Parent=Rev.11;Identity=0.8778;Rank=1;Target="Rev.1 26 116"
+U39362.2	VIRA	CDS	8368	8642	.	+	2	Parent=Rev.12;Identity=0.8778;Rank=1;Target="Rev.1 26 116"
+U39362.2	VIRA	CDS	8368	8642	.	+	2	Parent=Rev.1;Identity=0.8778;Rank=1;Target="Rev.1 26 116"
+U39362.2	VIRA	CDS	8368	8642	.	+	2	Parent=Rev.2;Identity=0.8778;Rank=1;Target="Rev.1 26 116"
+U39362.2	VIRA	CDS	8368	8642	.	+	2	Parent=Rev.4;Identity=0.8778;Rank=1;Target="Rev.1 26 116"
+U39362.2	VIRA	CDS	8368	8642	.	+	2	Parent=Rev.5;Identity=0.8778;Rank=1;Target="Rev.1 26 116"
+U39362.2	VIRA	CDS	8368	8642	.	+	2	Parent=Rev.6;Identity=0.8778;Rank=1;Target="Rev.1 26 116"
+U39362.2	VIRA	CDS	8368	8642	.	+	2	Parent=Rev.7;Identity=0.8778;Rank=1;Target="Rev.1 26 116"
+U39362.2	VIRA	CDS	8368	8642	.	+	2	Parent=Rev.8;Identity=0.8778;Rank=1;Target="Rev.1 26 116"
+U39362.2	VIRA	CDS	8368	8642	.	+	2	Parent=Rev.9;Identity=0.8778;Rank=1;Target="Rev.1 26 116"
+U39362.2	VIRA	exon	8368	9626	.	+	.	Parent=Nef.1
+U39362.2	VIRA	exon	8368	9626	.	+	.	Parent=Nef.3
+U39362.2	VIRA	exon	8368	9626	.	+	.	Parent=Nef.4
+U39362.2	VIRA	exon	8368	9626	.	+	.	Parent=Nef.5
+U39362.2	VIRA	exon	8368	9626	.	+	.	Parent=Rev.1
+U39362.2	VIRA	exon	8368	9626	.	+	.	Parent=Rev.10
+U39362.2	VIRA	exon	8368	9626	.	+	.	Parent=Rev.11
+U39362.2	VIRA	exon	8368	9626	.	+	.	Parent=Rev.12
+U39362.2	VIRA	exon	8368	9626	.	+	.	Parent=Rev.2
+U39362.2	VIRA	exon	8368	9626	.	+	.	Parent=Rev.4
+U39362.2	VIRA	exon	8368	9626	.	+	.	Parent=Rev.5
+U39362.2	VIRA	exon	8368	9626	.	+	.	Parent=Rev.6
+U39362.2	VIRA	exon	8368	9626	.	+	.	Parent=Rev.7
+U39362.2	VIRA	exon	8368	9626	.	+	.	Parent=Rev.8
+U39362.2	VIRA	exon	8368	9626	.	+	.	Parent=Rev.9
+U39362.2	VIRA	exon	8368	9626	.	+	.	Parent=Tat.1
+U39362.2	VIRA	exon	8368	9626	.	+	.	Parent=Tat.2
+U39362.2	VIRA	exon	8368	9626	.	+	.	Parent=Tat.3
+U39362.2	VIRA	exon	8368	9626	.	+	.	Parent=Tat.4
+U39362.2	VIRA	exon	8368	9626	.	+	.	Parent=Vpr.1
+U39362.2	VIRA	exon	8368	9626	.	+	.	Parent=Vpr.2
+U39362.2	VIRA	CDS	8786	9157	.	+	0	Parent=Nef.1;Identity=0.8095;Rank=1;Target="Nef.1 1 123"
+U39362.2	VIRA	CDS	8786	9157	.	+	0	Parent=Nef.3;Identity=0.8095;Rank=1;Target="Nef.1 1 123"
+U39362.2	VIRA	CDS	8786	9157	.	+	0	Parent=Nef.4;Identity=0.8095;Rank=1;Target="Nef.1 1 123"
+U39362.2	VIRA	CDS	8786	9157	.	+	0	Parent=Nef.5;Identity=0.8095;Rank=1;Target="Nef.1 1 123"
